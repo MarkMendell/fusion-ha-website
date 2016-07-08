@@ -1,0 +1,38 @@
+.grouping-heading, .entry-heading {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.hidden {
+  display: none;
+}
+
+.entries, .entry-content {
+  margin-left: 10px;
+}
+
+.audio-player {
+  min-width: 50px;
+  max-width: 500px;
+  width: 100%;
+  height: 25px;
+}
+
+.audio-player .background {
+  width: 100%;
+  height: 100%;
+  fill: lightgrey;
+}
+
+.audio-player .play-button, .audio-player .pause-button {
+  fill: grey;
+}
+
+.clickable-region {
+  opacity: 0.0;
+}
+
+.entry-content audio {
+  width: 100%;
+  max-width: 500px;
+}
