@@ -13,6 +13,12 @@
     },
     "url": "http://baauer.com/"
   },
+  "Bataille Solaire": {
+    "tracks": {
+      "Metal Garden": "https://wasabitapes.bandcamp.com/track/metal-garden"
+    },
+    "url": "https://soundcloud.com/asa-l-1"
+  },
   "Bill Evans": {
     "tracks": {
       "What Is There to Say?": "https://www.youtube.com/watch?v=GU8AwOPrVhk"
@@ -42,6 +48,12 @@
       "Duet Solo Dancers": "https://www.youtube.com/watch?v=ZtX-M1bOCKI"
     },
     "url": "http://mingusmingusmingus.com/"
+  },
+  "Conundrumer": {
+    "tracks": {
+      "basic bouncing ball": "https://soundcloud.com/conundrumer/basic-bouncing-ball"
+    },
+    "url": "https://soundcloud.com/conundrumer"
   },
   "DJ Tomad": {
     "tracks": {
@@ -91,6 +103,12 @@
       "Tourist Point of View": "https://www.youtube.com/watch?v=_xqR6E26Tz4"
     },
     "url": "http://www.dukeellington.com/"
+  },
+  "F.E.A.P.": {
+    "tracks": {
+      "DG7.1": "http://freemusicarchive.org/music/FEAP/"
+    },
+    "url": "https://elementperspective.bandcamp.com/album/epv-055"
   },
   "Frank Zappa": {
     "tracks": {
@@ -346,6 +364,12 @@
     },
     "url": "http://midiman.reztech.org/"
   },
+  "Trevor Wishart": {
+    "tracks": {
+      "Tongues of Fire": "https://www.youtube.com/watch?v=x-Or7VaMlEI"
+    },
+    "url": "http://www.trevorwishart.co.uk/"
+  },
   "Van Dyke Parks": {
     "tracks": {
       "Palm Desert": "https://www.youtube.com/watch?v=2CRkyvNiDQg"
@@ -378,7 +402,8 @@
   },
   "Yoshitaka Hikawa": {
     "tracks": {
-      "LCD/DRM": "https://soundcloud.com/yoshitaka-hikawa-1/lucid-dream"
+      "LCD/DRM": "https://soundcloud.com/yoshitaka-hikawa-1/lucid-dream",
+      "Oyez": "https://seagrave.bandcamp.com/track/oyez"
     },
     "url": "https://soundcloud.com/yoshitaka-hikawa-1"
   },

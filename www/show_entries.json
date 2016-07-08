@@ -1,5 +1,46 @@
 [
   {
+    "number": 10,
+    "title": "Sound Design",
+    "date": "5/27/16",
+    "stream": "https://cmu.box.com/shared/static/czl36p3e8xq800cumoh8dawi0segaqm5.mp3",
+    "links": [
+      {
+        "text": "WRCT",
+        "url": "http://www.wrct.org/playlist/24946/"
+      }, {
+        "text": "MP3",
+        "url": "https://cmu.box.com/shared/static/czl36p3e8xq800cumoh8dawi0segaqm5.mp3"
+      }
+    ], "tracklist": [
+      {
+        "minutes": 0,
+        "seconds": 0,
+        "artist": "Bataille Solaire",
+        "title": "Metal Garden"
+      }, {
+        "minutes": 3,
+        "seconds": 47,
+        "artist": "F.E.A.P.",
+        "title": "DG7.1"
+      }, {
+        "minutes": 20,
+        "seconds": 28,
+        "artist": "Yoshitaka Hikawa",
+        "title": "Oyez"
+      }, {
+        "minutes": 22,
+        "seconds": 39,
+        "artist": "Trevor Wishart",
+        "title": "Tongues of Fire"
+      }, {
+        "minutes": 47,
+        "seconds": 47,
+        "artist": "Conundrumer",
+        "title": "basic bouncing ball"
+      }
+    ]
+  }, {
     "number": 9,
     "title": "Scratching the Fusion HA Itch",
     "date": "5/20/16",
