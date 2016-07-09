@@ -1,5 +1,91 @@
 [
   {
+    "number": 11,
+    "title": "Futurebeats vs Jazz Fusion",
+    "date": "7/3/2016",
+    "stream": "https://cmu.box.com/shared/static/261tx5y4x58bq4stg9py385brdw27jsn.mp3",
+    "links": [
+      {
+        "text": "WRCT",
+        "url": "http://www.wrct.org/playlist/24967/"
+      }, {
+        "text": "MP3",
+        "url": "https://cmu.box.com/shared/static/261tx5y4x58bq4stg9py385brdw27jsn.mp3"
+      }
+    ], "tracklist": [
+      {
+        "minutes": 1,
+        "seconds": 43,
+        "artist": "Maxo",
+        "title": "Snow Other"
+      }, {
+        "minutes": 4,
+        "seconds": 26,
+        "artist": "AHBSNT",
+        "title": "Chip Anthem"
+      }, {
+        "minutes": 8,
+        "seconds": 32,
+        "artist": "popcorn_10",
+        "title": "dennis"
+      }, {
+        "minutes": 11,
+        "seconds": 28,
+        "artist": "Haywyre",
+        "title": "Smooth Criminal"
+      }, {
+        "minutes": 15,
+        "seconds": 6,
+        "artist": "Dirty Loops",
+        "title": "Hit Me"
+      }, {
+        "minutes": 19,
+        "seconds": 46,
+        "artist": "Calum Bowen",
+        "title": "Thief Story Titles"
+      }, {
+        "minutes": 20,
+        "seconds": 47,
+        "artist": "Maxo",
+        "title": "Take Me Out~"
+      }, {
+        "minutes": 24,
+        "seconds": 39,
+        "artist": "Calum Bowen",
+        "title": "Lovely Mountains"
+      }, {
+        "minutes": 28,
+        "seconds": 37,
+        "artist": "Tennyson",
+        "title": "You're Cute"
+      }, {
+        "minutes": 32,
+        "seconds": 18,
+        "artist": "Jacob Collier",
+        "title": "Tennesse Waltz (live)"
+      }, {
+        "minutes": 36,
+        "seconds": 39,
+        "artist": "James Blake",
+        "title": "The Wilhelm Scream"
+      }, {
+        "minutes": 41,
+        "seconds": 51,
+        "artist": "Tennyson",
+        "title": "Like What?"
+      }, {
+        "minutes": 45,
+        "seconds": 37,
+        "artist": "Lindsay Lowend & Jonah Baseball",
+        "title": "Jeremy's Pet Peeve"
+      }, {
+        "minutes": 48,
+        "seconds": 38,
+        "artist": "Maxo",
+        "title": "Crush~"
+      }
+    ]
+  }, {
     "number": 10,
     "title": "Sound Design",
     "date": "5/27/16",

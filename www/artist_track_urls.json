@@ -1,4 +1,10 @@
 {
+  "AHBSNT": {
+    "tracks": {
+      "Chip Anthem": "https://ahbsnt.bandcamp.com/track/chip-anthem"
+    },
+    "url": "https://soundcloud.com/ahbsnt"
+  },
   "Avec Avec": {
     "tracks": {
       "Day By Day feat. 中江友梨": "https://www.youtube.com/watch?v=_9mKozFdBfE",
@@ -39,7 +45,8 @@
   },
   "Calum Bowen": {
     "tracks": {
-      "Lovely Mountains": "https://calumbowen.bandcamp.com/track/lovely-mountains"
+      "Lovely Mountains": "https://calumbowen.bandcamp.com/track/lovely-mountains",
+      "Thief Story Titles": "https://soundcloud.com/calumbowen/thief-story-titles"
     },
     "url": "https://calumbowen.com/"
   },
@@ -84,6 +91,12 @@
       "Billy Not Really": "https://www.youtube.com/watch?v=QWR0-s30WsY"
     },
     "url": "http://thirdworlds.net/"
+  },
+  "Dirty Loops": {
+    "tracks": {
+      "Hit Me": "https://www.youtube.com/watch?v=nls1HtXQe8E"
+    },
+    "url": "http://www.dirty-loops.com/"
   },
   "Disturbed": {
     "tracks": {
@@ -141,6 +154,12 @@
     },
     "url": "https://www.youtube.com/channel/UCVfawufEaOXdFOFKbsmsMww"
   },
+  "Haywyre": {
+    "tracks": {
+      "Smooth Criminal": "https://www.youtube.com/watch?v=vLXS0EGwCZg"
+    },
+    "url": "http://www.haywyremusic.com/"
+  },
   "Hercelot x Tomggg": {
     "tracks": {
       "GREENGUM": "https://soundcloud.com/maltine-record/hercelottomggg-greengum"
@@ -166,9 +185,16 @@
       "Don't You Worry 'Bout a Thing": "https://www.youtube.com/watch?v=pvKUttYs5ow",
       "Fasinating Rhythm": "https://www.youtube.com/watch?v=K28H04Y2IdE",
       "Flintstones": "https://www.youtube.com/watch?v=zua831utwMM",
-      "Hideaway": "https://www.youtube.com/watch?v=4v3zyPEy-Po"
+      "Hideaway": "https://www.youtube.com/watch?v=4v3zyPEy-Po",
+      "Tennesse Waltz (live)": "https://www.youtube.com/watch?v=ZQtbzkR_Xsc"
     },
     "url": "http://www.jacobcollier.co.uk/"
+  },
+  "James Blake": {
+    "tracks": {
+      "The Wilhelm Scream": "https://www.youtube.com/watch?v=isIABK-0ohQ"
+    },
+    "url": "http://jamesblakemusic.com/"
   },
   "John Zorn": {
     "tracks": {
@@ -202,6 +228,12 @@
     },
     "url": "http://www.lampweb.jp/"
   },
+  "Lindsay Lowend & Jonah Baseball": {
+    "tracks": {
+      "Jeremy's Pet Peeve": "https://soundcloud.com/bastardjazz/lindsey-lowend-jonah-baseball"
+    },
+    "url": ""
+  },
   "Lipgloss Twins": {
     "tracks": {
       "Doodle": "http://doodle.pcmusic.info/"
@@ -230,11 +262,14 @@
   },
   "Maxo": {
     "tracks": {
+      "Crush~": "https://soundcloud.com/maxoelectronic/crush",
       "Death Grips - Takyon (Maxo remix)": "https://soundcloud.com/maxoelectronic/takyon-death-grips-remix",
       "HEALTH POP": "https://soundcloud.com/maxoelectronic/health-pop",
       "I Did it All for the Cookie": "https://soundcloud.com/logomagazine/tribute-01-maxo-limp-bizkit-maxos-bisquick-mix",
       "Not That Bad (feat. GFOTY)": "https://soundcloud.com/maxoelectronic/not-that-bad-feat-gfoty",
-      "Sunset BB (feat. meesh)": "https://maxoisnuts.bandcamp.com/track/sunset-bb-feat-meesh"
+      "Snow Other": "https://soundcloud.com/maxoelectronic/snowother",
+      "Sunset BB (feat. meesh)": "https://maxoisnuts.bandcamp.com/track/sunset-bb-feat-meesh",
+      "Take Me Out~": "https://maxoisnuts.bandcamp.com/track/take-me-out"
     },
     "url": "https://soundcloud.com/maxoelectronic"
   },
@@ -351,6 +386,13 @@
     },
     "url": "http://sugarscampaign.com/"
   },
+  "Tennyson": {
+    "tracks": {
+      "Like What?": "https://soundcloud.com/tennysonmusic/likewhat",
+      "You're Cute": "https://soundcloud.com/shhsecretsongs/shh001-tennyson-youre-cute"
+    },
+    "url": "https://soundcloud.com/tennysonmusic"
+  },
   "Tim Hecker": {
     "tracks": {
       "The Work of Art in the Age of Cultural Overproduction": "https://www.youtube.com/watch?v=I7M9I2npHwo"
@@ -459,6 +501,12 @@
       "still got cashhh (instrumental)": "https://soundcloud.com/hi_tom/still-got-cashhh-instrumental"
     },
     "url": "https://soundcloud.com/hi_tom"
+  },
+  "popcorn_10": {
+    "tracks": {
+      "dennis": "http://www.dennis.video/"
+    },
+    "url": "https://vine.co/popcorn10"
   },
   "tofubeats": {
     "tracks": {
