@@ -1,9 +1,30 @@
 {
+  "A.G. Cook": {
+    "tracks": {
+      "DJ DJ Booth - Heaven (A.G. Cook Remix)": "https://soundcloud.com/xlr8r/dj-dj-booth-heaven-a-g-cook",
+      "Keri Baby (feat. Hannah Diamond)": "http://keribaby.pcmusic.info/",
+      "Time's Up (Remix)": "http://tankmagazine.com/live/tank/radio-tank-mix-a-g-cook",
+      "Violets Are Blue": "http://nujack.pcmusic.info/"
+    },
+    "url": "http://pcmusic.info/"
+  },
+  "ABBA": {
+    "tracks": {
+      "Lay All Your Love On Me (Nightcore remix)": "https://www.youtube.com/watch?v=mybiWWE8WDA"
+    },
+    "url": "http://www.abbasite.com/"
+  },
   "AHBSNT": {
     "tracks": {
       "Chip Anthem": "https://ahbsnt.bandcamp.com/track/chip-anthem"
     },
     "url": "https://soundcloud.com/ahbsnt"
+  },
+  "Aqua": {
+    "tracks": {
+      "Roses Are Red": "https://www.youtube.com/watch?v=0JZUbrCsRQs"
+    },
+    "url": "http://www.aquaofficial.com/"
   },
   "Avec Avec": {
     "tracks": {
@@ -21,6 +42,7 @@
   },
   "Bataille Solaire": {
     "tracks": {
+      "Lapino Club Mix": "https://bataillesolaire.bandcamp.com/track/lapino-club-mix",
       "Metal Garden": "https://wasabitapes.bandcamp.com/track/metal-garden"
     },
     "url": "https://soundcloud.com/asa-l-1"
@@ -62,11 +84,41 @@
     },
     "url": "https://soundcloud.com/conundrumer"
   },
+  "DJ DJ Booth": {
+    "tracks": {
+      "Heaven": "https://activiabenz.bandcamp.com/track/heaven"
+    },
+    "url": "https://soundcloud.com/dj-dj-booth"
+  },
+  "DJ Mastercard": {
+    "tracks": {
+      "Cryogenics (feat. 4J LTE)": "https://soundcloud.com/activia-benz/dj-mastercard-cryogenics-feat-4j-lte-1"
+    },
+    "url": "https://soundcloud.com/dj-mastercard"
+  },
+  "DJ Q": {
+    "tracks": {
+      "You Wot! (feat. MC Bonez)": "https://www.youtube.com/watch?v=fUGZq02cYIY"
+    },
+    "url": "http://djqmusic.com/"
+  },
   "DJ Tomad": {
     "tracks": {
       "Boyz Jump Up": "http://maltinerecords.cs8.biz/23.html"
     },
     "url": "https://twitter.com/tomad"
+  },
+  "DJ Warlord": {
+    "tracks": {
+      "Cadenza": "https://soundcloud.com/thump/dj-warlord-cadenza"
+    },
+    "url": "https://soundcloud.com/djwarl0rd"
+  },
+  "DJWWWW": {
+    "tracks": {
+      "Tsutaya & Book-off": "https://orangemilkrecords.bandcamp.com/track/tsutaya-book-off"
+    },
+    "url": "https://soundcloud.com/exilevevo"
   },
   "DV-i": {
     "tracks": {
@@ -74,9 +126,24 @@
     },
     "url": "https://soundcloud.com/d-video"
   },
+  "DZZ": {
+    "tracks": {
+      "Build Me": "https://soundcloud.com/shhsecretsongs/dzz",
+      "Satellite's Words": "https://soundcloud.com/activia-benz/sc046-dzz-satellites-words"
+    },
+    "url": "https://soundcloud.com/dzzmusic"
+  },
+  "Danny Byrd": {
+    "tracks": {
+      "Brian McKnight - Should I Stay Or Should I Go (Danny Byrd Drum & Bass Mix)": "https://www.youtube.com/watch?v=BLW5KuHDfak"
+    },
+    "url": "http://www.byrdfeed.co.uk/"
+  },
   "Danny L Harle": {
     "tracks": {
-      "18ECKING 8ALL": "https://soundcloud.com/sullivantoph/18ecking-8all"
+      "18ECKING 8ALL": "https://soundcloud.com/sullivantoph/18ecking-8all",
+      "Aquarius (Luna Remix)": "https://www.youtube.com/watch?v=b2J87IDJ3dg",
+      "Supernatural (feat. Carly Rae Jepsen)": "https://www.youtube.com/watch?v=CrFcxR4Y6C0"
     },
     "url": "http://www.dannylharle.com/"
   },
@@ -91,6 +158,12 @@
       "Billy Not Really": "https://www.youtube.com/watch?v=QWR0-s30WsY"
     },
     "url": "http://thirdworlds.net/"
+  },
+  "Deech": {
+    "tracks": {
+      "Beach'N'Vine": "https://www.youtube.com/watch?v=MTeew_hn38M"
+    },
+    "url": "https://soundcloud.com/deech"
   },
   "Dirty Loops": {
     "tracks": {
@@ -107,7 +180,8 @@
   "Diveo": {
     "tracks": {
       "Ferris Wheel": "https://soundcloud.com/activia-benz/sc022-diveo-ferris-wheel",
-      "Fever Dreams (feat. Taylor Fernandez)": "https://soundcloud.com/diveo/fever-dreams-feat-taylor-fernandez"
+      "Fever Dreams (feat. Taylor Fernandez)": "https://soundcloud.com/diveo/fever-dreams-feat-taylor-fernandez",
+      "Summer Trees": "https://soundcloud.com/shhsecretsongs/shh020-diveo-summer-trees"
     },
     "url": "http://diveo.info"
   },
@@ -117,11 +191,35 @@
     },
     "url": "http://www.dukeellington.com/"
   },
+  "Dux Kidz": {
+    "tracks": {
+      "Nightspeeder feat. William": "https://soundcloud.com/duxkidz/nightspeeder-feat-william"
+    },
+    "url": "https://soundcloud.com/duxkidz"
+  },
+  "Ennnn": {
+    "tracks": {
+      "Quale": "https://raggaterrorfront.bandcamp.com/track/quale"
+    },
+    "url": "https://soundcloud.com/ennnn"
+  },
   "F.E.A.P.": {
     "tracks": {
       "DG7.1": "http://freemusicarchive.org/music/FEAP/"
     },
     "url": "https://elementperspective.bandcamp.com/album/epv-055"
+  },
+  "Fantastic Fantastic": {
+    "tracks": {
+      "Neon Light (feat. Bakubaku Dokin)": "https://soundcloud.com/activia-benz/sc044-fantastic-fantastic-neon-lights-ft-bakubaku-dokin"
+    },
+    "url": "http://fantasticfantastic.co.uk/"
+  },
+  "Foodman": {
+    "tracks": {
+      "Jazz": "https://orangemilkrecords.bandcamp.com/track/jazz"
+    },
+    "url": "https://soundcloud.com/shokuhin-maturi"
   },
   "Frank Zappa": {
     "tracks": {
@@ -135,6 +233,13 @@
       "Head Splitter": "https://www.youtube.com/watch?v=2YllipGl2Is"
     },
     "url": "https://soundcloud.com/getterofficial"
+  },
+  "Giant Claw": {
+    "tracks": {
+      "Dark Web 001": "https://soundcloud.com/giantclaw/dark-web-001",
+      "Love Alive": "https://soundcloud.com/activia-benz/love-alive"
+    },
+    "url": "https://giantclaw.bandcamp.com/"
   },
   "Goodnight Cody": {
     "tracks": {
@@ -154,6 +259,20 @@
     },
     "url": "https://www.youtube.com/channel/UCVfawufEaOXdFOFKbsmsMww"
   },
+  "Gunge": {
+    "tracks": {
+      "Hit-The-Bank": "https://activiabenz.bandcamp.com/track/hit-the-bank",
+      "XSTNTL??SUCCESS￼✔": "https://www.youtube.com/watch?v=EO1hRaHuq8Y",
+      "yves gr8dane": "https://soundcloud.com/activia-benz/sc011-gunge-yves-gr8dane"
+    },
+    "url": "https://soundcloud.com/gunge"
+  },
+  "Guy Akimoto": {
+    "tracks": {
+      "So Far Away": "https://soundcloud.com/activia-benz/so-far-away"
+    },
+    "url": "https://soundcloud.com/guyakimoto"
+  },
   "Haywyre": {
     "tracks": {
       "Smooth Criminal": "https://www.youtube.com/watch?v=vLXS0EGwCZg"
@@ -166,13 +285,32 @@
     },
     "url": "http://maltinerecords.cs8.biz/"
   },
+  "Holly Waxwing": {
+    "tracks": {
+      "Teva Suite": "https://soundcloud.com/activia-benz/sc026-holly-waxwing-teva-suite"
+    },
+    "url": "https://soundcloud.com/hollywaxwing"
+  },
+  "Hudson Mohawke": {
+    "tracks": {
+      "Fruit Touch": "https://www.youtube.com/watch?v=M49VSLLYDMw"
+    },
+    "url": "http://www.hudsonmohawke.com/"
+  },
   "Iglooghost": {
     "tracks": {
-      "INCA CHEEKBONES": "https://soundcloud.com/activia-benz/sc018-iglooghost-inca-cheekbones",
+      "Chinchou / Melon Lantern Girl's Choir": "https://soundcloud.com/iglooghost/chinchou-melon-lanterns-girls-club",
+      "INCA CHEEKBONES ⌇ຶ ཅ⌇ຶ": "https://soundcloud.com/activia-benz/sc018-iglooghost-inca-cheekbones",
       "Mametchi / Usohachi (feat. Mr. Yote)": "https://www.youtube.com/watch?v=OQ7e33rOo00",
       "Xiangjiao": "https://www.youtube.com/watch?v=qocGLpVFS0w"
     },
     "url": "https://soundcloud.com/iglooghost"
+  },
+  "Iglooghost x Toby Gale": {
+    "tracks": {
+      "Honey Soaker": "https://soundcloud.com/activia-benz/sc023-iglooghost-x-toby-gale-honey-soaker"
+    },
+    "url": "https://activiabenz.com/"
   },
   "Isao Tomita": {
     "tracks": {
@@ -186,7 +324,9 @@
       "Fasinating Rhythm": "https://www.youtube.com/watch?v=K28H04Y2IdE",
       "Flintstones": "https://www.youtube.com/watch?v=zua831utwMM",
       "Hideaway": "https://www.youtube.com/watch?v=4v3zyPEy-Po",
-      "Tennesse Waltz (live)": "https://www.youtube.com/watch?v=ZQtbzkR_Xsc"
+      "Saviour": "https://www.youtube.com/watch?v=MZNq9on-FYo",
+      "Tennesse Waltz (live)": "https://www.youtube.com/watch?v=ZQtbzkR_Xsc",
+      "Woke Up Today": "https://www.youtube.com/watch?v=-wMvh6wt1J0"
     },
     "url": "http://www.jacobcollier.co.uk/"
   },
@@ -204,17 +344,35 @@
     },
     "url": "https://en.wikipedia.org/wiki/John_Zorn"
   },
+  "Jonah Baseball": {
+    "tracks": {
+      "World Series": "https://soundcloud.com/activia-benz/sc004-jonah-baseball-world-series"
+    },
+    "url": "https://soundcloud.com/jonah-baseball"
+  },
   "KID FRESINO": {
     "tracks": {
       "Special Radio ft IO": "https://www.youtube.com/watch?v=q2u9Vf4Um9M"
     },
     "url": "https://soundcloud.com/kid-fresino"
   },
+  "Kai Whiston": {
+    "tracks": {
+      "ya didn't know kai was a real mythbusta.wav": "https://my.mixtape.moe/zpcslw.wav"
+    },
+    "url": "https://soundcloud.com/kaiwhiston"
+  },
   "Kane West": {
     "tracks": {
       "Recycle Bin": "https://soundcloud.com/turborecordings/kane-west-recycle-bin-1"
     },
     "url": "https://soundcloud.com/Kane-West-Official"
+  },
+  "Kero Kero Bonito": {
+    "tracks": {
+      "Flamingo": "https://soundcloud.com/shhsecretsongs/kero-kero-bonito-flamingo"
+    },
+    "url": "http://kerokerobonito.com/"
   },
   "LIZ": {
     "tracks": {
@@ -232,13 +390,19 @@
     "tracks": {
       "Jeremy's Pet Peeve": "https://soundcloud.com/bastardjazz/lindsey-lowend-jonah-baseball"
     },
-    "url": ""
+    "url": "http://www.bastardjazz.com/"
   },
   "Lipgloss Twins": {
     "tracks": {
       "Doodle": "http://doodle.pcmusic.info/"
     },
     "url": "http://pcmusic.info/"
+  },
+  "MC Bin Laden": {
+    "tracks": {
+      "Só Whisk Só Malote": "https://soundcloud.com/manodjbemboladoproducoes/mc-bin-laden-so-whisky-so-malote-mano-dj-lancamento-2016"
+    },
+    "url": "https://www.facebook.com/oficialmcbinladen"
   },
   "MINO MINO": {
     "tracks": {
@@ -256,28 +420,54 @@
   },
   "Masayoshi Iimori": {
     "tracks": {
+      "Kan Takahiko - NRG (Masayoshi Iimori remix)": "https://soundcloud.com/trekkie-trax/kan-takahiko-nrg-masayoshi-iimori-remixnest-hq-premiere",
       "Mikeneko Homeless - そばが食べたい (Masayoshi Iimori Remix)": "https://soundcloud.com/maltine-record/masayoshi-iimori-soba-remix"
     },
     "url": "https://soundcloud.com/masayoshi-iimori"
   },
+  "Matra Magic": {
+    "tracks": {
+      "Mac 10": "https://soundcloud.com/activia-benz/sc032-matra-magic-mac-10"
+    },
+    "url": "https://soundcloud.com/immatramagic"
+  },
   "Maxo": {
     "tracks": {
+      "Bowl Masters USA": "https://levelmusicmaxo.bandcamp.com/track/bowl-masters-usa",
       "Crush~": "https://soundcloud.com/maxoelectronic/crush",
+      "Cyan City": "https://levelmusicmaxo.bandcamp.com/track/cyan-city",
       "Death Grips - Takyon (Maxo remix)": "https://soundcloud.com/maxoelectronic/takyon-death-grips-remix",
+      "Eddy Vancouver": "https://soundcloud.com/activia-benz/sc009-maxo-eddy-vancouver",
       "HEALTH POP": "https://soundcloud.com/maxoelectronic/health-pop",
       "I Did it All for the Cookie": "https://soundcloud.com/logomagazine/tribute-01-maxo-limp-bizkit-maxos-bisquick-mix",
+      "Iglooghost - Peanut Choker (Maxo remix)": "https://soundcloud.com/brainfeeder/iglooghost-peanut-choker-maxo-remix",
       "Not That Bad (feat. GFOTY)": "https://soundcloud.com/maxoelectronic/not-that-bad-feat-gfoty",
       "Snow Other": "https://soundcloud.com/maxoelectronic/snowother",
       "Sunset BB (feat. meesh)": "https://maxoisnuts.bandcamp.com/track/sunset-bb-feat-meesh",
-      "Take Me Out~": "https://maxoisnuts.bandcamp.com/track/take-me-out"
+      "Take Me Out~": "https://maxoisnuts.bandcamp.com/track/take-me-out",
+      "Tears in the Wind / Grow Wings [Brooklyn Beat Rip]": "https://www.mixcloud.com/RadioFreeBrooklyn/brooklyn-beat-with-scott-einhorn-episode-17-featuring-maxo/",
+      "Toby Gale - 3 Up (Maxo Cuttermix)": "https://soundcloud.com/xlr8r/toby-gale-3-up-maxo-cuttermix"
     },
     "url": "https://soundcloud.com/maxoelectronic"
+  },
+  "Maxo x Jonathan": {
+    "tracks": {
+      "Nice Feelings": "https://soundcloud.com/shhsecretsongs/shh003-maxo-x-jonathan-nice-feelings"
+    },
+    "url": "https://soundcloud.com/nice-feelings"
   },
   "Maxo x Peter Berkman": {
     "tracks": {
       "Ranger": "https://soundcloud.com/maltine-record/maxo-x-peter-berkman-ranger"
     },
     "url": "http://maltinerecords.cs8.biz"
+  },
+  "Miami Mais": {
+    "tracks": {
+      "200 Times": "https://soundcloud.com/shhsecretsongs/shh007-miami-mais-200-times",
+      "Vanexa": "https://activiabenz.bandcamp.com/track/vanexa"
+    },
+    "url": "https://soundcloud.com/miami-mais"
   },
   "Mikeneko Homeless": {
     "tracks": {
@@ -286,17 +476,47 @@
     },
     "url": "http://mikenekohomeless.weebly.com/"
   },
+  "Mikeneko Homeless x Masayoshi Iimori": {
+    "tracks": {
+      "America (feat. Nagi Nemoto)": "http://maltinerecords.cs8.biz/marui7/"
+    },
+    "url": "http://maltinerecords.cs8.biz/"
+  },
+  "Mister Lies": {
+    "tracks": {
+      "Wait?": "https://soundcloud.com/shhsecretsongs/shh021-mister-lies-wait"
+    },
+    "url": "http://misterlies.com/"
+  },
+  "Moon Bounce": {
+    "tracks": {
+      "Wingman": "https://soundcloud.com/activia-benz/sc043-moon-bounce-wingman"
+    },
+    "url": "http://moonbouncemusic.com/"
+  },
   "NON STOP POP": {
     "tracks": {
       "Yoshi X Komono - Cat Cafe Feat. JME": "https://soundcloud.com/nonstoppop/yoshi-x-komono-cat-cafe-feat-jme"
     },
     "url": "https://soundcloud.com/nonstoppop"
   },
+  "Naruto": {
+    "tracks": {
+      "Artificial Intelligence Bomb": "https://www.youtube.com/watch?v=4gtGeZ2wOmo"
+    },
+    "url": "http://www.rootnyanplus.com/user/naruto/chiptune.html"
+  },
   "Nas": {
     "tracks": {
       "N.Y. State of Mind": "https://www.youtube.com/watch?v=6j-L2yIC4xw"
     },
     "url": "http://www.nasirjones.com/"
+  },
+  "Nyolfen": {
+    "tracks": {
+      "City Lights Reflection (feat. さくらゆら)": "https://soundcloud.com/bunkai-kei-records/nyolfen-city-light-reflection"
+    },
+    "url": "https://soundcloud.com/nyolfen"
   },
   "Omniboi": {
     "tracks": {
@@ -306,7 +526,8 @@
   },
   "PARKGOLF": {
     "tracks": {
-      "Pa's Lam System - I'm Coming (PARKGOLF Remix)": "https://soundcloud.com/parkgolf/im-coming-parkgolf-remix"
+      "Pa's Lam System - I'm Coming (PARKGOLF Remix)": "https://soundcloud.com/parkgolf/im-coming-parkgolf-remix",
+      "Silk Curtain": "https://soundcloud.com/activia-benz/sc037-parkgolf-silk-curtain"
     },
     "url": "https://soundcloud.com/parkgolf"
   },
@@ -327,9 +548,16 @@
   },
   "Parks Burton": {
     "tracks": {
-      "Counterfeit": "https://soundcloud.com/shhsecretsongs/counterfeit"
+      "Counterfeit": "https://soundcloud.com/shhsecretsongs/counterfeit",
+      "Lemon & Lime": "https://soundcloud.com/parksburton/lemon-lime"
     },
     "url": "https://soundcloud.com/parksburton"
+  },
+  "Perfume": {
+    "tracks": {
+      "Perfume": "https://www.youtube.com/watch?v=YZfwXt8naAc"
+    },
+    "url": "http://www.perfume-web.jp/index.php"
   },
   "Riiku": {
     "tracks": {
@@ -346,7 +574,8 @@
   },
   "SOPHIE": {
     "tracks": {
-      "HARD": "https://soundcloud.com/msmsmsm/sophie-hard"
+      "HARD": "https://soundcloud.com/msmsmsm/sophie-hard",
+      "Paris Suit Yourself - Won't K (Sophie Remix)": "https://soundcloud.com/parissuityourself/wont-k-sophie"
     },
     "url": "http://msmsmsm.com"
   },
@@ -362,11 +591,41 @@
     },
     "url": "https://satanicpornocultshop.bandcamp.com/"
   },
+  "Scritti Politti": {
+    "tracks": {
+      "Perfect Way": "https://www.youtube.com/watch?v=_gjZSVOELbI"
+    },
+    "url": "http://www.scritti.net/"
+  },
+  "Seferino": {
+    "tracks": {
+      "Party Master": "https://www.youtube.com/watch?v=e7Uzf28pisQ"
+    },
+    "url": "https://soundcloud.com/seferino-beatz"
+  },
+  "Selerac": {
+    "tracks": {
+      "For Those Involved In Hennessy": "https://soundcloud.com/shhsecretsongs/selerac"
+    },
+    "url": "https://soundcloud.com/selerac-1"
+  },
   "Simple Plan": {
     "tracks": {
       "Untitled": "https://www.youtube.com/watch?v=ZQ7oqmikZDQ"
     },
     "url": "http://www.simpleplan.com/"
+  },
+  "Slugabed": {
+    "tracks": {
+      "Iglooghost - Peanut Choker (Slugabed remix)": "https://soundcloud.com/brainfeeder/iglooghost-peanut-choker-slugabed-remix"
+    },
+    "url": "https://soundcloud.com/slugabed"
+  },
+  "So So In Luv": {
+    "tracks": {
+      "Swerve": "https://soundcloud.com/activia-benz/so-so-in-luv-swerve"
+    },
+    "url": "http://sosoinluv.com/"
   },
   "Soyo Oka": {
     "tracks": {
@@ -386,6 +645,24 @@
     },
     "url": "http://sugarscampaign.com/"
   },
+  "T2": {
+    "tracks": {
+      "Heartbroken (feat. Jodie Aysha)": "https://www.youtube.com/watch?v=WTsHWzvJWDQ"
+    },
+    "url": "https://en.wikipedia.org/wiki/T2_(producer)"
+  },
+  "TEMPURA KIDZ": {
+    "tracks": {
+      "I Like It": "https://www.youtube.com/watch?v=Avr8wcz0I78"
+    },
+    "url": "http://tempurakidz.asobisystem.com/"
+  },
+  "Tancla": {
+    "tracks": {
+      "Sledge": "https://soundcloud.com/tancla/sledge"
+    },
+    "url": "https://soundcloud.com/tancla"
+  },
   "Tennyson": {
     "tracks": {
       "Like What?": "https://soundcloud.com/tennysonmusic/likewhat",
@@ -393,16 +670,31 @@
     },
     "url": "https://soundcloud.com/tennysonmusic"
   },
+  "Tielsie": {
+    "tracks": {
+      "Palette": "http://palette.pcmusic.info/"
+    },
+    "url": "https://soundcloud.com/tielsie"
+  },
   "Tim Hecker": {
     "tracks": {
       "The Work of Art in the Age of Cultural Overproduction": "https://www.youtube.com/watch?v=I7M9I2npHwo"
     },
     "url": "http://sunblind.net/"
   },
+  "Toby Gale": {
+    "tracks": {
+      "3 Up": "https://activiabenz.bandcamp.com/track/3-up",
+      "From Now On In": "https://soundcloud.com/activia-benz/toby-gale-from-now-on-in",
+      "Hawaii Wifi Tiger Moves": "https://soundcloud.com/shhsecretsongs/shh017-toby-gale-hawaii-wifi-tiger-moves"
+    },
+    "url": "https://soundcloud.com/toby-gale"
+  },
   "Tony Thai": {
     "tracks": {
       "Coast 4": "https://soundcloud.com/midiman10/coast4",
-      "Cough Syrup Overdoes": "https://soundcloud.com/ubiktune/tony-thai-cough-syrup-overdose"
+      "Cough Syrup Overdose": "https://soundcloud.com/ubiktune/tony-thai-cough-syrup-overdose",
+      "Qbomb": "https://soundcloud.com/sexytoadsandfrogsfriendcircle/tony-thai-qbomb"
     },
     "url": "http://midiman.reztech.org/"
   },
@@ -436,6 +728,12 @@
     },
     "url": "https://soundcloud.com/wave-racer"
   },
+  "YOTEGHOST": {
+    "tracks": {
+      "MILK EMPIRE": "https://activiabenz.bandcamp.com/album/milk-empire"
+    },
+    "url": "https://activiabenz.bandcamp.com/album/milk-empire"
+  },
   "Yaeji": {
     "tracks": {
       "New York '93": "https://www.youtube.com/watch?v=vbJyplhmy1g"
@@ -445,7 +743,8 @@
   "Yoshitaka Hikawa": {
     "tracks": {
       "LCD/DRM": "https://soundcloud.com/yoshitaka-hikawa-1/lucid-dream",
-      "Oyez": "https://seagrave.bandcamp.com/track/oyez"
+      "Oyez": "https://seagrave.bandcamp.com/track/oyez",
+      "noir (feat. / N T O /)": "https://soundcloud.com/yoshitaka-hikawa-1/noir-w-n-t-o"
     },
     "url": "https://soundcloud.com/yoshitaka-hikawa-1"
   },
@@ -480,9 +779,16 @@
   },
   "easyFun": {
     "tracks": {
-      "Sondico": "https://soundcloud.com/pcmus/sondico"
+      "Sondico": "https://soundcloud.com/pcmus/sondico",
+      "easyMix": "https://soundcloud.com/easyfun/easymix"
     },
     "url": "https://soundcloud.com/easyfun"
+  },
+  "felicita": {
+    "tracks": {
+      "wwwwwubit": "https://soundcloud.com/nonstoppop/radio-jack-june-2015"
+    },
+    "url": "https://soundcloud.com/felicita"
   },
   "foisey.": {
     "tracks": {
@@ -501,6 +807,12 @@
       "still got cashhh (instrumental)": "https://soundcloud.com/hi_tom/still-got-cashhh-instrumental"
     },
     "url": "https://soundcloud.com/hi_tom"
+  },
+  "kane west": {
+    "tracks": {
+      "gameset": "http://kanewest.pcmusic.info/"
+    },
+    "url": "https://soundcloud.com/kane-west-official"
   },
   "popcorn_10": {
     "tracks": {
