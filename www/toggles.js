@@ -18,7 +18,7 @@ function getShowEntries(callback) {
         } else {
           console.log(showEntriesRequest.status);
           console.log(showEntriesRequest.responseText);
-          alert('huh.');
+          alert('Failed to read the show entries.');
         }
       }
     }
@@ -40,7 +40,7 @@ function getArtistTrackUrls(callback) {
         } else {
           console.log(artistTrackUrlsRequest.status);
           console.log(artistTrackUrlsRequest.responseText);
-          alert('huh.');
+          alert('Failed to read the artist and track information.');
         }
       }
     }
@@ -76,26 +76,35 @@ function makeEntryTracklistEntry(tracklistEntry, artistTrackUrls) {
   var tracklistEntryElem = document.createElement('li');
   tracklistEntryElem.classList.add('tracklist-entry');
   if (tracklistEntry.minutes !== undefined) {
-    tracklistEntryElem.innerHTML = tracklistEntry.minutes + ':';
-    tracklistEntryElem.innerHTML += tracklistEntry.seconds >= 10
+    var timestampElem = document.createElement('span');
+    timestampElem.classList.add('timestamp');
+    timestampElem.innerHTML = tracklistEntry.minutes + ':';
+    timestampElem.innerHTML += tracklistEntry.seconds >= 10
       ? tracklistEntry.seconds
       : '0' + tracklistEntry.seconds;
-    tracklistEntryElem.innerHTML += ' | '
+    timestampElem.addEventListener("click", function() {
+      var audio = this.parentNode.parentNode.previousSibling;
+      audio.currentTime = tracklistEntry.minutes*60 + tracklistEntry.seconds;
+    });
+    tracklistEntryElem.appendChild(timestampElem);
+    tracklistEntryElem.appendChild(document.createTextNode(' | '));
   }
   var artistUrl = artistTrackUrls[tracklistEntry.artist].url;
   var trackUrls = artistTrackUrls[tracklistEntry.artist].tracks;
   var trackUrl = trackUrls[tracklistEntry.title];
   if (artistUrl === "") {
-    tracklistEntryElem.innerHTML += tracklistEntry.artist;
+    var artistText = document.createTextNode(tracklistEntry.artist);
+    tracklistEntryElem.appendChild(artistText);
   } else {
     var artistElem = document.createElement('a');
     artistElem.href = artistUrl;
     artistElem.innerHTML = tracklistEntry.artist;
     tracklistEntryElem.appendChild(artistElem);
   }
-  tracklistEntryElem.innerHTML += ' - ';
+  tracklistEntryElem.appendChild(document.createTextNode(' - '));
   if (trackUrl === "") {
-    tracklistEntryElem.innerHTML += tracklistEntry.title;
+    var titleText = document.createTextNode(tracklistEntry.title);
+    tracklistEntryElem.appendChild(titleText);
   } else {
     var titleElem = document.createElement('a');
     titleElem.href = trackUrl;
