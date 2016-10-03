@@ -72,19 +72,54 @@ function makeEntryAudioPlayer(streamLink) {
   return audioPlayer;
 }
 
+function makeEntryMusicModeToggle(audioPlayer, tracklist) {
+  var toggleElem = document.createElement('div');
+  var musicModeElem = document.createElement('div');
+  var checkbox = document.createElement('input');
+  checkbox.type = "checkbox";
+  musicModeElem.appendChild(checkbox);
+  musicModeElem.appendChild(document.createTextNode("♫-only mode"));
+  toggleElem.appendChild(musicModeElem);
+  var starts = tracklist.map(function(entry) {
+    return entry.start_minutes*60 + entry.start_seconds;
+  });
+  var ends = tracklist.map(function(entry) {
+    return entry.end_minutes*60 + entry.end_seconds;
+  });
+  var skipTalking = function(i) {
+    if (document.body.contains(audioPlayer) && (i < (ends.length - 1))) {
+      if (checkbox.checked) {
+        var time = audioPlayer.currentTime;
+        var start_i = i;
+        while ((i < ends.length) && (time > ends[i])) {
+          i += 1;
+        }
+        if ((i != start_i) && (i < ends.length) && (time < starts[i])) {
+          audioPlayer.currentTime = starts[i];
+        }
+      }
+      setTimeout(skipTalking, 1000, i);
+    }
+  };
+  setTimeout(skipTalking, 1000, 0);
+  return toggleElem;
+}
+
 function makeEntryTracklistEntry(tracklistEntry, artistTrackUrls) {
   var tracklistEntryElem = document.createElement('li');
   tracklistEntryElem.classList.add('tracklist-entry');
-  if (tracklistEntry.minutes !== undefined) {
+  if (tracklistEntry.start_minutes !== undefined) {
     var timestampElem = document.createElement('span');
     timestampElem.classList.add('timestamp');
-    timestampElem.innerHTML = tracklistEntry.minutes + ':';
-    timestampElem.innerHTML += tracklistEntry.seconds >= 10
-      ? tracklistEntry.seconds
-      : '0' + tracklistEntry.seconds;
+    timestampElem.innerHTML = tracklistEntry.start_minutes + ':';
+    timestampElem.innerHTML += tracklistEntry.start_seconds >= 10
+      ? tracklistEntry.start_seconds
+      : '0' + tracklistEntry.start_seconds;
     timestampElem.addEventListener("click", function() {
-      var audio = this.parentNode.parentNode.previousSibling;
-      audio.currentTime = tracklistEntry.minutes*60 + tracklistEntry.seconds;
+      var tracklistElem = this.parentNode.parentNode;
+      var audioPlayer = tracklistElem.previousSibling.previousSibling;
+      var time = tracklistEntry.start_minutes*60 + tracklistEntry.start_seconds;
+      audioPlayer.currentTime = time;
     });
     tracklistEntryElem.appendChild(timestampElem);
     tracklistEntryElem.appendChild(document.createTextNode(' | '));
@@ -134,6 +169,10 @@ function makeEntryContent(entry, artistTrackUrls) {
   if (entry.stream) {
     var entryAudioPlayer = makeEntryAudioPlayer(entry.stream);
     entryContent.appendChild(entryAudioPlayer);
+    var entryMusicModeToggle = makeEntryMusicModeToggle(
+      entryAudioPlayer, entry.tracklist
+    );
+    entryContent.appendChild(entryMusicModeToggle);
   }
   var entryTracklist = makeEntryTracklist(entry.tracklist, artistTrackUrls);
   entryContent.appendChild(entryTracklist);

@@ -14,68 +14,94 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 29,
+        "start_minutes": 0,
+        "start_seconds": 29,
+        "end_minutes": 2,
+        "end_seconds": 53,
         "artist": "Mikeneko Homeless x Masayoshi Iimori",
         "title": "America (feat. Nagi Nemoto)"
       }, {
-        "minutes": 2,
-        "seconds": 55,
+        "start_minutes": 2,
+        "start_seconds": 55,
+        "end_minutes": 4,
+        "end_seconds": 59,
         "artist": "DJ Q",
         "title": "You Wot! (feat. MC Bonez)"
       }, {
-        "minutes": 4,
-        "seconds": 59,
+        "start_minutes": 4,
+        "start_seconds": 59,
+        "end_minutes": 11,
+        "end_seconds": 39,
         "artist": "Danny Byrd",
         "title": "Brian McKnight - Should I Stay Or Should I Go (Danny Byrd Drum & Bass Mix)"
       }, {
-        "minutes": 11,
-        "seconds": 39,
+        "start_minutes": 11,
+        "start_seconds": 39,
+        "end_minutes": 14,
+        "end_seconds": 32,
         "artist": "Parks Burton",
         "title": "Lemon & Lime"
       }, {
-        "minutes": 14,
-        "seconds": 32,
+        "start_minutes": 14,
+        "start_seconds": 32,
+        "end_minutes": 19,
+        "end_seconds": 11,
         "artist": "Jacob Collier",
         "title": "Woke Up Today"
       }, {
-        "minutes": 19,
-        "seconds": 11,
+        "start_minutes": 19,
+        "start_seconds": 11,
+        "end_minutes": 22,
+        "end_seconds": 50,
         "artist": "Nyolfen",
         "title": "City Lights Reflection (feat. さくらゆら)"
       }, {
-        "minutes": 23,
-        "seconds": 29,
+        "start_minutes": 23,
+        "start_seconds": 29,
+        "end_minutes": 27,
+        "end_seconds": 40,
         "artist": "Masayoshi Iimori",
         "title": "Kan Takahiko - NRG (Masayoshi Iimori remix)"
       }, {
-        "minutes": 27,
-        "seconds": 40,
+        "start_minutes": 27,
+        "start_seconds": 40,
+        "end_minutes": 31,
+        "end_seconds": 7,
         "artist": "Kai Whiston",
         "title": "ya didn't know kai was a real mythbusta.wav"
       }, {
-        "minutes": 31,
-        "seconds": 7,
+        "start_minutes": 31,
+        "start_seconds": 7,
+        "end_minutes": 34,
+        "end_seconds": 52,
         "artist": "MC Bin Laden",
         "title": "Só Whisk Só Malote"
       }, {
-        "minutes": 34,
-        "seconds": 52,
+        "start_minutes": 34,
+        "start_seconds": 52,
+        "end_minutes": 38,
+        "end_seconds": 57,
         "artist": "Ennnn",
         "title": "Quale"
       }, {
-        "minutes": 39,
-        "seconds": 24,
+        "start_minutes": 39,
+        "start_seconds": 24,
+        "end_minutes": 40,
+        "end_seconds": 58,
         "artist": "Tancla",
         "title": "Sledge"
       }, {
-        "minutes": 40,
-        "seconds": 58,
+        "start_minutes": 40,
+        "start_seconds": 58,
+        "end_minutes": 42,
+        "end_seconds": 33,
         "artist": "Yoshitaka Hikawa",
         "title": "noir (feat. / N T O /)"
       }, {
-        "minutes": 42,
-        "seconds": 34,
+        "start_minutes": 42,
+        "start_seconds": 34,
+        "end_minutes": 48,
+        "end_seconds": 46,
         "artist": "Maxo",
         "title": "Tears in the Wind / Grow Wings [Brooklyn Beat Rip]"
       }
@@ -95,58 +121,80 @@
       }
     ], "tracklist": [
       {
-        "minutes": 5,
-        "seconds": 49,
+        "start_minutes": 5,
+        "start_seconds": 49,
+        "end_minutes": 10,
+        "end_seconds": 42,
         "artist": "kane west",
         "title": "gameset"
       }, {
-        "minutes": 10,
-        "seconds": 43,
+        "start_minutes": 10,
+        "start_seconds": 43,
+        "end_minutes": 12,
+        "end_seconds": 48,
         "artist": "felicita",
         "title": "wwwwwubit"
       }, {
-        "minutes": 12,
-        "seconds": 48,
+        "start_minutes": 12,
+        "start_seconds": 48,
+        "end_minutes": 16,
+        "end_seconds": 7,
         "artist": "TEMPURA KIDZ",
         "title": "I Like It"
       }, {
-        "minutes": 18,
-        "seconds": 45,
+        "start_minutes": 18,
+        "start_seconds": 45,
+        "end_minutes": 22,
+        "end_seconds": 34,
         "artist": "Tielsie",
         "title": "Palette"
       }, {
-        "minutes": 22,
-        "seconds": 35,
+        "start_minutes": 22,
+        "start_seconds": 35,
+        "end_minutes": 25,
+        "end_seconds": 0,
         "artist": "A.G. Cook",
         "title": "Time's Up (Remix)"
       }, {
-        "minutes": 25,
-        "seconds": 0,
+        "start_minutes": 25,
+        "start_seconds": 0,
+        "end_minutes": 29,
+        "end_seconds": 21,
         "artist": "SOPHIE",
         "title": "Paris Suit Yourself - Won't K (Sophie Remix)"
       }, {
-        "minutes": 32,
-        "seconds": 31,
+        "start_minutes": 32,
+        "start_seconds": 31,
+        "end_minutes": 35,
+        "end_seconds": 29,
         "artist": "T2",
         "title": "Heartbroken (feat. Jodie Aysha)"
       }, {
-        "minutes": 35,
-        "seconds": 29,
+        "start_minutes": 35,
+        "start_seconds": 29,
+        "end_minutes": 38,
+        "end_seconds": 21,
         "artist": "ABBA",
         "title": "Lay All Your Love On Me (Nightcore remix)"
       }, {
-        "minutes": 38,
-        "seconds": 22,
+        "start_minutes": 38,
+        "start_seconds": 22,
+        "end_minutes": 42,
+        "end_seconds": 2,
         "artist": "Aqua",
         "title": "Roses Are Red"
       }, {
-        "minutes": 43,
-        "seconds": 36,
+        "start_minutes": 43,
+        "start_seconds": 36,
+        "end_minutes": 46,
+        "end_seconds": 31,
         "artist": "A.G. Cook",
         "title": "Violets Are Blue"
       }, {
-        "minutes": 46,
-        "seconds": 32,
+        "start_minutes": 46,
+        "start_seconds": 32,
+        "end_minutes": 51,
+        "end_seconds": 11,
         "artist": "Danny L Harle",
         "title": "Supernatural (feat. Carly Rae Jepsen)"
       }
@@ -166,58 +214,80 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 10,
+        "start_minutes": 1,
+        "start_seconds": 10,
+        "end_minutes": 4,
+        "end_seconds": 49,
         "artist": "Tennyson",
         "title": "You're Cute"
       }, {
-        "minutes": 5,
-        "seconds": 6,
+        "start_minutes": 5,
+        "start_seconds": 6,
+        "end_minutes": 9,
+        "end_seconds": 3,
         "artist": "Maxo x Jonathan",
         "title": "Nice Feelings"
       }, {
-        "minutes": 9,
-        "seconds": 4,
+        "start_minutes": 9,
+        "start_seconds": 4,
+        "end_minutes": 12,
+        "end_seconds": 0,
         "artist": "Miami Mais",
         "title": "200 Times"
       }, {
-        "minutes": 12,
-        "seconds": 27,
+        "start_minutes": 12,
+        "start_seconds": 27,
+        "end_minutes": 15,
+        "end_seconds": 42,
         "artist": "Kero Kero Bonito",
         "title": "Flamingo"
       }, {
-        "minutes": 16,
-        "seconds": 13,
+        "start_minutes": 16,
+        "start_seconds": 13,
+        "end_minutes": 19,
+        "end_seconds": 23,
         "artist": "Toby Gale",
         "title": "Hawaii Wifi Tiger Moves"
       }, {
-        "minutes": 19,
-        "seconds": 24,
+        "start_minutes": 19,
+        "start_seconds": 24,
+        "end_minutes": 22,
+        "end_seconds": 53,
         "artist": "Diveo",
         "title": "Summer Trees"
       }, {
-        "minutes": 23,
-        "seconds": 12,
+        "start_minutes": 23,
+        "start_seconds": 12,
+        "end_minutes": 27,
+        "end_seconds": 12,
         "artist": "Mister Lies",
         "title": "Wait?"
       }, {
-        "minutes": 27,
-        "seconds": 12,
+        "start_minutes": 27,
+        "start_seconds": 12,
+        "end_minutes": 30,
+        "end_seconds": 0,
         "artist": "Parks Burton",
         "title": "Counterfeit"
       }, {
-        "minutes": 30,
-        "seconds": 24,
+        "start_minutes": 30,
+        "start_seconds": 24,
+        "end_minutes": 33,
+        "end_seconds": 5,
         "artist": "Seferino",
         "title": "Party Master"
       }, {
-        "minutes": 33,
-        "seconds": 5,
+        "start_minutes": 33,
+        "start_seconds": 5,
+        "end_minutes": 35,
+        "end_seconds": 28,
         "artist": "DZZ",
         "title": "Build Me"
       }, {
-        "minutes": 36,
-        "seconds": 10,
+        "start_minutes": 36,
+        "start_seconds": 10,
+        "end_minutes": 46,
+        "end_seconds": 24,
         "artist": "Selerac",
         "title": "For Those Involved In Hennessy"
       }
@@ -237,43 +307,59 @@
       }
     ], "tracklist": [
       {
-        "minutes": 5,
-        "seconds": 2,
+        "start_minutes": 5,
+        "start_seconds": 2,
+        "end_minutes": 7,
+        "end_seconds": 10,
         "artist": "A.G. Cook",
         "title": "Keri Baby (feat. Hannah Diamond)"
       }, {
-        "minutes": 7,
-        "seconds": 10,
+        "start_minutes": 7,
+        "start_seconds": 10,
+        "end_minutes": 9,
+        "end_seconds": 48,
         "artist": "Danny L Harle",
         "title": "Aquarius (Luna Remix)"
       }, {
-        "minutes": 16,
-        "seconds": 4,
+        "start_minutes": 16,
+        "start_seconds": 4,
+        "end_minutes": 18,
+        "end_seconds": 59,
         "artist": "SOPHIE",
         "title": "HARD"
       }, {
-        "minutes": 19,
-        "seconds": 1,
+        "start_minutes": 19,
+        "start_seconds": 1,
+        "end_minutes": 21,
+        "end_seconds": 15,
         "artist": "Dux Kidz",
         "title": "Nightspeeder feat. William"
       }, {
-        "minutes": 24,
-        "seconds": 54,
+        "start_minutes": 24,
+        "start_seconds": 54,
+        "end_minutes": 29,
+        "end_seconds": 32,
         "artist": "Scritti Politti",
         "title": "Perfect Way"
       }, {
-        "minutes": 29,
-        "seconds": 32,
+        "start_minutes": 29,
+        "start_seconds": 32,
+        "end_minutes": 33,
+        "end_seconds": 30,
         "artist": "Hudson Mohawke",
         "title": "Fruit Touch"
       }, {
-        "minutes": 33,
-        "seconds": 35,
+        "start_minutes": 33,
+        "start_seconds": 35,
+        "end_minutes": 38,
+        "end_seconds": 46,
         "artist": "Perfume",
         "title": "Perfume"
       }, {
-        "minutes": 41,
-        "seconds": 50,
+        "start_minutes": 41,
+        "start_seconds": 50,
+        "end_minutes": 48,
+        "end_seconds": 57,
         "artist": "easyFun",
         "title": "easyMix"
       }
@@ -293,73 +379,101 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 23,
+        "start_minutes": 1,
+        "start_seconds": 23,
+        "end_minutes": 5,
+        "end_seconds": 15,
         "artist": "Deech",
         "title": "Beach'N'Vine"
       }, {
-        "minutes": 5,
-        "seconds": 30,
+        "start_minutes": 5,
+        "start_seconds": 30,
+        "end_minutes": 8,
+        "end_seconds": 54,
         "artist": "DJ DJ Booth",
         "title": "Heaven"
       }, {
-        "minutes": 8,
-        "seconds": 56,
+        "start_minutes": 8,
+        "start_seconds": 56,
+        "end_minutes": 11,
+        "end_seconds": 21,
         "artist": "A.G. Cook",
         "title": "DJ DJ Booth - Heaven (A.G. Cook Remix)"
       }, {
-        "minutes": 11,
-        "seconds": 48,
+        "start_minutes": 11,
+        "start_seconds": 48,
+        "end_minutes": 14,
+        "end_seconds": 7,
         "artist": "DJ Warlord",
         "title": "Cadenza"
       }, {
-        "minutes": 14,
-        "seconds": 20,
+        "start_minutes": 14,
+        "start_seconds": 20,
+        "end_minutes": 17,
+        "end_seconds": 12,
         "artist": "Miami Mais",
         "title": "Vanexa"
       }, {
-        "minutes": 17,
-        "seconds": 50,
+        "start_minutes": 17,
+        "start_seconds": 50,
+        "end_minutes": 21,
+        "end_seconds": 32,
         "artist": "Toby Gale",
         "title": "3 Up"
       }, {
-        "minutes": 21,
-        "seconds": 34,
+        "start_minutes": 21,
+        "start_seconds": 34,
+        "end_minutes": 27,
+        "end_seconds": 8,
         "artist": "Toby Gale",
         "title": "From Now On In"
       }, {
-        "minutes": 27,
-        "seconds": 8,
+        "start_minutes": 27,
+        "start_seconds": 8,
+        "end_minutes": 29,
+        "end_seconds": 29,
         "artist": "Maxo",
         "title": "Toby Gale - 3 Up (Maxo Cuttermix)"
       }, {
-        "minutes": 29,
-        "seconds": 51,
+        "start_minutes": 29,
+        "start_seconds": 51,
+        "end_minutes": 32,
+        "end_seconds": 0,
         "artist": "Gunge",
         "title": "Hit-The-Bank"
       }, {
-        "minutes": 32,
-        "seconds": 0,
+        "start_minutes": 32,
+        "start_seconds": 0,
+        "end_minutes": 34,
+        "end_seconds": 57,
         "artist": "Gunge",
         "title": "XSTNTL??SUCCESS￼✔"
       }, {
-        "minutes": 35,
-        "seconds": 12,
+        "start_minutes": 35,
+        "start_seconds": 12,
+        "end_minutes": 38,
+        "end_seconds": 41,
         "artist": "DJ Mastercard",
         "title": "Cryogenics (feat. 4J LTE)"
       }, {
-        "minutes": 39,
-        "seconds": 18,
+        "start_minutes": 39,
+        "start_seconds": 18,
+        "end_minutes": 43,
+        "end_seconds": 12,
         "artist": "YOTEGHOST",
         "title": "MILK EMPIRE"
       }, {
-        "minutes": 44,
-        "seconds": 2,
+        "start_minutes": 44,
+        "start_seconds": 2,
+        "end_minutes": 48,
+        "end_seconds": 18,
         "artist": "Slugabed",
         "title": "Iglooghost - Peanut Choker (Slugabed remix)"
       }, {
-        "minutes": 48,
-        "seconds": 21,
+        "start_minutes": 48,
+        "start_seconds": 21,
+        "end_minutes": 50,
+        "end_seconds": 36,
         "artist": "Maxo",
         "title": "Iglooghost - Peanut Choker (Maxo remix)"
       }
@@ -379,78 +493,108 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 28,
+        "start_minutes": 1,
+        "start_seconds": 28,
+        "end_minutes": 5,
+        "end_seconds": 8,
         "artist": "Jonah Baseball",
         "title": "World Series"
       }, {
-        "minutes": 5,
-        "seconds": 11,
+        "start_minutes": 5,
+        "start_seconds": 11,
+        "end_minutes": 9,
+        "end_seconds": 14,
         "artist": "Guy Akimoto",
         "title": "So Far Away"
       }, {
-        "minutes": 9,
-        "seconds": 31,
+        "start_minutes": 9,
+        "start_seconds": 31,
+        "end_minutes": 12,
+        "end_seconds": 32,
         "artist": "Maxo",
         "title": "Eddy Vancouver"
       }, {
-        "minutes": 12,
-        "seconds": 32,
+        "start_minutes": 12,
+        "start_seconds": 32,
+        "end_minutes": 15,
+        "end_seconds": 7,
         "artist": "Gunge",
         "title": "yves gr8dane"
       }, {
-        "minutes": 15,
-        "seconds": 40,
+        "start_minutes": 15,
+        "start_seconds": 40,
+        "end_minutes": 19,
+        "end_seconds": 33,
         "artist": "Giant Claw",
         "title": "Love Alive"
       }, {
-        "minutes": 19,
-        "seconds": 35,
+        "start_minutes": 19,
+        "start_seconds": 35,
+        "end_minutes": 22,
+        "end_seconds": 45,
         "artist": "So So In Luv",
         "title": "Swerve"
       }, {
-        "minutes": 23,
-        "seconds": 4,
+        "start_minutes": 23,
+        "start_seconds": 4,
+        "end_minutes": 25,
+        "end_seconds": 38,
         "artist": "Iglooghost",
         "title": "INCA CHEEKBONES ⌇ຶ ཅ⌇ຶ"
       }, {
-        "minutes": 25,
-        "seconds": 38,
+        "start_minutes": 25,
+        "start_seconds": 38,
+        "end_minutes": 28,
+        "end_seconds": 41,
         "artist": "Diveo",
         "title": "Ferris Wheel"
       }, {
-        "minutes": 29,
-        "seconds": 11,
+        "start_minutes": 29,
+        "start_seconds": 11,
+        "end_minutes": 32,
+        "end_seconds": 24,
         "artist": "Iglooghost x Toby Gale",
         "title": "Honey Soaker"
       }, {
-        "minutes": 32,
-        "seconds": 24,
+        "start_minutes": 32,
+        "start_seconds": 24,
+        "end_minutes": 34,
+        "end_seconds": 50,
         "artist": "Holly Waxwing",
         "title": "Teva Suite"
       }, {
-        "minutes": 35,
-        "seconds": 15,
+        "start_minutes": 35,
+        "start_seconds": 15,
+        "end_minutes": 38,
+        "end_seconds": 24,
         "artist": "Matra Magic",
         "title": "Mac 10"
       }, {
-        "minutes": 38,
-        "seconds": 27,
+        "start_minutes": 38,
+        "start_seconds": 27,
+        "end_minutes": 42,
+        "end_seconds": 55,
         "artist": "PARKGOLF",
         "title": "Silk Curtain"
       }, {
-        "minutes": 43,
-        "seconds": 25,
+        "start_minutes": 43,
+        "start_seconds": 25,
+        "end_minutes": 46,
+        "end_seconds": 10,
         "artist": "Moon Bounce",
         "title": "Wingman"
       }, {
-        "minutes": 46,
-        "seconds": 10,
+        "start_minutes": 46,
+        "start_seconds": 10,
+        "end_minutes": 49,
+        "end_seconds": 19,
         "artist": "Fantastic Fantastic",
         "title": "Neon Light (feat. Bakubaku Dokin)"
       }, {
-        "minutes": 49,
-        "seconds": 48,
+        "start_minutes": 49,
+        "start_seconds": 48,
+        "end_minutes": 51,
+        "end_seconds": 58,
         "artist": "DZZ",
         "title": "Satellite's Words"
       }
@@ -470,53 +614,73 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 41,
+        "start_minutes": 0,
+        "start_seconds": 41,
+        "end_minutes": 4,
+        "end_seconds": 52,
         "artist": "Giant Claw",
         "title": "Dark Web 001"
       }, {
-        "minutes": 5,
-        "seconds": 6,
+        "start_minutes": 5,
+        "start_seconds": 6,
+        "end_minutes": 7,
+        "end_seconds": 6,
         "artist": "DJWWWW",
         "title": "Tsutaya & Book-off"
       }, {
-        "minutes": 7,
-        "seconds": 21,
+        "start_minutes": 7,
+        "start_seconds": 21,
+        "end_minutes": 20,
+        "end_seconds": 13,
         "artist": "Bataille Solaire",
         "title": "Lapino Club Mix"
       }, {
-        "minutes": 20,
-        "seconds": 27,
+        "start_minutes": 20,
+        "start_seconds": 27,
+        "end_minutes": 23,
+        "end_seconds": 34,
         "artist": "Foodman",
         "title": "Jazz"
       }, {
-        "minutes": 24,
-        "seconds": 12,
+        "start_minutes": 24,
+        "start_seconds": 12,
+        "end_minutes": 26,
+        "end_seconds": 26,
         "artist": "Naruto",
         "title": "Artificial Intelligence Bomb"
       }, {
-        "minutes": 26,
-        "seconds": 26,
+        "start_minutes": 26,
+        "start_seconds": 26,
+        "end_minutes": 31,
+        "end_seconds": 47,
         "artist": "Tony Thai",
         "title": "Qbomb"
       }, {
-        "minutes": 32,
-        "seconds": 15,
+        "start_minutes": 32,
+        "start_seconds": 15,
+        "end_minutes": 34,
+        "end_seconds": 20,
         "artist": "Maxo",
         "title": "Bowl Masters USA"
       }, {
-        "minutes": 34,
-        "seconds": 20,
+        "start_minutes": 34,
+        "start_seconds": 20,
+        "end_minutes": 37,
+        "end_seconds": 16,
         "artist": "Maxo",
         "title": "Cyan City"
       }, {
-        "minutes": 37,
-        "seconds": 44,
+        "start_minutes": 37,
+        "start_seconds": 44,
+        "end_minutes": 41,
+        "end_seconds": 3,
         "artist": "Iglooghost",
         "title": "Chinchou / Melon Lantern Girl's Choir"
       }, {
-        "minutes": 41,
-        "seconds": 25,
+        "start_minutes": 41,
+        "start_seconds": 25,
+        "end_minutes": 47,
+        "end_seconds": 31,
         "artist": "Jacob Collier",
         "title": "Saviour"
       }
@@ -536,73 +700,101 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 44,
+        "start_minutes": 1,
+        "start_seconds": 44,
+        "end_minutes": 4,
+        "end_seconds": 26,
         "artist": "Maxo",
         "title": "Snow Other"
       }, {
-        "minutes": 4,
-        "seconds": 26,
+        "start_minutes": 4,
+        "start_seconds": 26,
+        "end_minutes": 8,
+        "end_seconds": 32,
         "artist": "AHBSNT",
         "title": "Chip Anthem"
       }, {
-        "minutes": 8,
-        "seconds": 32,
+        "start_minutes": 8,
+        "start_seconds": 32,
+        "end_minutes": 11,
+        "end_seconds": 2,
         "artist": "popcorn_10",
         "title": "dennis"
       }, {
-        "minutes": 11,
-        "seconds": 29,
+        "start_minutes": 11,
+        "start_seconds": 29,
+        "end_minutes": 15,
+        "end_seconds": 6,
         "artist": "Haywyre",
         "title": "Smooth Criminal"
       }, {
-        "minutes": 15,
-        "seconds": 6,
+        "start_minutes": 15,
+        "start_seconds": 6,
+        "end_minutes": 18,
+        "end_seconds": 36,
         "artist": "Dirty Loops",
         "title": "Hit Me"
       }, {
-        "minutes": 19,
-        "seconds": 46,
+        "start_minutes": 19,
+        "start_seconds": 46,
+        "end_minutes": 20,
+        "end_seconds": 48,
         "artist": "Calum Bowen",
         "title": "Thief Story Titles"
       }, {
-        "minutes": 20,
-        "seconds": 48,
+        "start_minutes": 20,
+        "start_seconds": 48,
+        "end_minutes": 24,
+        "end_seconds": 39,
         "artist": "Maxo",
         "title": "Take Me Out~"
       }, {
-        "minutes": 24,
-        "seconds": 40,
+        "start_minutes": 24,
+        "start_seconds": 40,
+        "end_minutes": 27,
+        "end_seconds": 22,
         "artist": "Calum Bowen",
         "title": "Lovely Mountains"
       }, {
-        "minutes": 28,
-        "seconds": 37,
+        "start_minutes": 28,
+        "start_seconds": 37,
+        "end_minutes": 32,
+        "end_seconds": 18,
         "artist": "Tennyson",
         "title": "You're Cute"
       }, {
-        "minutes": 32,
-        "seconds": 18,
+        "start_minutes": 32,
+        "start_seconds": 18,
+        "end_minutes": 36,
+        "end_seconds": 40,
         "artist": "Jacob Collier",
         "title": "Tennesse Waltz (live)"
       }, {
-        "minutes": 36,
-        "seconds": 40,
+        "start_minutes": 36,
+        "start_seconds": 40,
+        "end_minutes": 41,
+        "end_seconds": 12,
         "artist": "James Blake",
         "title": "The Wilhelm Scream"
       }, {
-        "minutes": 41,
-        "seconds": 51,
+        "start_minutes": 41,
+        "start_seconds": 51,
+        "end_minutes": 45,
+        "end_seconds": 37,
         "artist": "Tennyson",
         "title": "Like What?"
       }, {
-        "minutes": 45,
-        "seconds": 37,
+        "start_minutes": 45,
+        "start_seconds": 37,
+        "end_minutes": 48,
+        "end_seconds": 39,
         "artist": "Lindsay Lowend & Jonah Baseball",
         "title": "Jeremy's Pet Peeve"
       }, {
-        "minutes": 48,
-        "seconds": 39,
+        "start_minutes": 48,
+        "start_seconds": 39,
+        "end_minutes": 51,
+        "end_seconds": 24,
         "artist": "Maxo",
         "title": "Crush~"
       }
@@ -622,28 +814,38 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 0,
+        "start_minutes": 0,
+        "start_seconds": 0,
+        "end_minutes": 2,
+        "end_seconds": 31,
         "artist": "Bataille Solaire",
         "title": "Metal Garden"
       }, {
-        "minutes": 3,
-        "seconds": 47,
+        "start_minutes": 3,
+        "start_seconds": 47,
+        "end_minutes": 19,
+        "end_seconds": 58,
         "artist": "F.E.A.P.",
         "title": "DG7.1"
       }, {
-        "minutes": 20,
-        "seconds": 28,
+        "start_minutes": 20,
+        "start_seconds": 28,
+        "end_minutes": 22,
+        "end_seconds": 11,
         "artist": "Yoshitaka Hikawa",
         "title": "Oyez"
       }, {
-        "minutes": 22,
-        "seconds": 39,
+        "start_minutes": 22,
+        "start_seconds": 39,
+        "end_minutes": 47,
+        "end_seconds": 10,
         "artist": "Trevor Wishart",
         "title": "Tongues of Fire"
       }, {
-        "minutes": 47,
-        "seconds": 47,
+        "start_minutes": 47,
+        "start_seconds": 47,
+        "end_minutes": 49,
+        "end_seconds": 46,
         "artist": "Conundrumer",
         "title": "basic bouncing ball"
       }
@@ -666,58 +868,80 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 27,
+        "start_minutes": 0,
+        "start_seconds": 27,
+        "end_minutes": 6,
+        "end_seconds": 17,
         "artist": "Isao Tomita",
         "title": "Clair De Lune"
       }, {
-        "minutes": 6,
-        "seconds": 21,
+        "start_minutes": 6,
+        "start_seconds": 21,
+        "end_minutes": 10,
+        "end_seconds": 11,
         "artist": "Death Grips",
         "title": "Billy Not Really"
       }, {
-        "minutes": 12,
-        "seconds": 11,
+        "start_minutes": 12,
+        "start_seconds": 11,
+        "end_minutes": 16,
+        "end_seconds": 43,
         "artist": "Satanicpornocultshop",
         "title": "ElectR&Bic M(e_i)ssy Pandaiiii"
       }, {
-        "minutes": 18,
-        "seconds": 3,
+        "start_minutes": 18,
+        "start_seconds": 3,
+        "end_minutes": 21,
+        "end_seconds": 9,
         "artist": "Jacob Collier",
         "title": "Flintstones"
       }, {
-        "minutes": 25,
-        "seconds": 56,
+        "start_minutes": 25,
+        "start_seconds": 56,
+        "end_minutes": 28,
+        "end_seconds": 53,
         "artist": "Bill Wurtz",
         "title": "i'm crazy / it's raining"
       }, {
-        "minutes": 29,
-        "seconds": 30,
+        "start_minutes": 29,
+        "start_seconds": 30,
+        "end_minutes": 33,
+        "end_seconds": 0,
         "artist": "Simple Plan",
         "title": "Untitled"
       }, {
-        "minutes": 33,
-        "seconds": 2,
+        "start_minutes": 33,
+        "start_seconds": 2,
+        "end_minutes": 35,
+        "end_seconds": 52,
         "artist": "easyFun",
         "title": "Sondico"
       }, {
-        "minutes": 37,
-        "seconds": 8,
+        "start_minutes": 37,
+        "start_seconds": 8,
+        "end_minutes": 39,
+        "end_seconds": 57,
         "artist": "Lipgloss Twins",
         "title": "Doodle"
       }, {
-        "minutes": 39,
-        "seconds": 57,
+        "start_minutes": 39,
+        "start_seconds": 57,
+        "end_minutes": 43,
+        "end_seconds": 8,
         "artist": "John Zorn",
         "title": "A Shot in the Dark"
       }, {
-        "minutes": 43,
-        "seconds": 11,
+        "start_minutes": 43,
+        "start_seconds": 11,
+        "end_minutes": 44,
+        "end_seconds": 51,
         "artist": "John Zorn",
         "title": "Reanimator"
       }, {
-        "minutes": 44,
-        "seconds": 53,
+        "start_minutes": 44,
+        "start_seconds": 53,
+        "end_minutes": 47,
+        "end_seconds": 10,
         "artist": "John Zorn",
         "title": "Snagglepuss"
       }
@@ -740,58 +964,80 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 28,
+        "start_minutes": 0,
+        "start_seconds": 28,
+        "end_minutes": 3,
+        "end_seconds": 34,
         "artist": "Van Dyke Parks",
         "title": "Palm Desert"
       }, {
-        "minutes": 3,
-        "seconds": 34,
+        "start_minutes": 3,
+        "start_seconds": 34,
+        "end_minutes": 6,
+        "end_seconds": 22,
         "artist": "Parks Burton",
         "title": "Counterfeit"
       }, {
-        "minutes": 6,
-        "seconds": 40,
+        "start_minutes": 6,
+        "start_seconds": 40,
+        "end_minutes": 9,
+        "end_seconds": 43,
         "artist": "Diveo",
         "title": "Ferris Wheel"
       }, {
-        "minutes": 9,
-        "seconds": 44,
+        "start_minutes": 9,
+        "start_seconds": 44,
+        "end_minutes": 12,
+        "end_seconds": 28,
         "artist": "Maxo",
         "title": "HEALTH POP"
       }, {
-        "minutes": 12,
-        "seconds": 37,
+        "start_minutes": 12,
+        "start_seconds": 37,
+        "end_minutes": 14,
+        "end_seconds": 56,
         "artist": "Yoshitaka Hikawa",
         "title": "LCD/DRM"
       }, {
-        "minutes": 15,
-        "seconds": 34,
+        "start_minutes": 15,
+        "start_seconds": 34,
+        "end_minutes": 23,
+        "end_seconds": 10,
         "artist": "Tim Hecker",
         "title": "The Work of Art in the Age of Cultural Overproduction"
       }, {
-        "minutes": 23,
-        "seconds": 11,
+        "start_minutes": 23,
+        "start_seconds": 11,
+        "end_minutes": 26,
+        "end_seconds": 19,
         "artist": "bo en",
         "title": "winter valentine (with mus.hiba)"
       }, {
-        "minutes": 26,
-        "seconds": 19,
+        "start_minutes": 26,
+        "start_seconds": 19,
+        "end_minutes": 33,
+        "end_seconds": 50,
         "artist": "Steely Dan",
         "title": "Deacon Blues"
       }, {
-        "minutes": 33,
-        "seconds": 53,
+        "start_minutes": 33,
+        "start_seconds": 53,
+        "end_minutes": 37,
+        "end_seconds": 57,
         "artist": "Lamp",
         "title": "抱きよせたい"
       }, {
-        "minutes": 38,
-        "seconds": 24,
+        "start_minutes": 38,
+        "start_seconds": 24,
+        "end_minutes": 42,
+        "end_seconds": 16,
         "artist": "Goodnight Cody",
         "title": "Home Run☆ (feat. Spazzkid)"
       }, {
-        "minutes": 42,
-        "seconds": 45,
+        "start_minutes": 42,
+        "start_seconds": 45,
+        "end_minutes": 47,
+        "end_seconds": 36,
         "artist": "Bill Evans",
         "title": "What Is There to Say?"
       }
@@ -815,88 +1061,122 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 25,
+        "start_minutes": 0,
+        "start_seconds": 25,
+        "end_minutes": 3,
+        "end_seconds": 53,
         "artist": "MINO MINO",
         "title": "Fetty Wap - My Way feat. Monty (MINO MINO FLIP)"
       }, {
-        "minutes": 3,
-        "seconds": 53,
+        "start_minutes": 3,
+        "start_seconds": 53,
+        "end_minutes": 6,
+        "end_seconds": 3,
         "artist": "Riiku",
         "title": "SOPHIE - HARD (Riiku Bootleg)"
       }, {
-        "minutes": 6,
-        "seconds": 3,
+        "start_minutes": 6,
+        "start_seconds": 3,
+        "end_minutes": 7,
+        "end_seconds": 49,
         "artist": "SURATI",
         "title": "ice cream"
       }, {
-        "minutes": 7,
-        "seconds": 49,
+        "start_minutes": 7,
+        "start_seconds": 49,
+        "end_minutes": 11,
+        "end_seconds": 1,
         "artist": "Baauer",
         "title": "GoGo!"
       }, {
-        "minutes": 11,
-        "seconds": 1,
+        "start_minutes": 11,
+        "start_seconds": 1,
+        "end_minutes": 14,
+        "end_seconds": 34,
         "artist": "hi tom",
         "title": "still got cashhh (instrumental)"
       }, {
-        "minutes": 14,
-        "seconds": 34,
+        "start_minutes": 14,
+        "start_seconds": 34,
+        "end_minutes": 17,
+        "end_seconds": 10,
         "artist": "Maxo",
         "title": "Death Grips - Takyon (Maxo remix)"
       }, {
-        "minutes": 17,
-        "seconds": 10,
+        "start_minutes": 17,
+        "start_seconds": 10,
+        "end_minutes": 17,
+        "end_seconds": 41,
         "artist": "WONKA",
         "title": "Nerds 2012 TV Commercial"
       }, {
-        "minutes": 17,
-        "seconds": 41,
+        "start_minutes": 17,
+        "start_seconds": 41,
+        "end_minutes": 20,
+        "end_seconds": 6,
         "artist": "MINO MINO",
         "title": "OKAY"
       }, {
-        "minutes": 20,
-        "seconds": 6,
+        "start_minutes": 20,
+        "start_seconds": 6,
+        "end_minutes": 23,
+        "end_seconds": 36,
         "artist": "Getter",
         "title": "Head Splitter"
       }, {
-        "minutes": 23,
-        "seconds": 36,
+        "start_minutes": 23,
+        "start_seconds": 36,
+        "end_minutes": 26,
+        "end_seconds": 5,
         "artist": "Iglooghost",
         "title": "INCA CHEEKBONES ⌇ຶ ཅ⌇ຶ"
       }, {
-        "minutes": 26,
-        "seconds": 5,
+        "start_minutes": 26,
+        "start_seconds": 5,
+        "end_minutes": 30,
+        "end_seconds": 36,
         "artist": "Zekk",
         "title": "THE FUTURE IS HERE"
       }, {
-        "minutes": 30,
-        "seconds": 36,
+        "start_minutes": 30,
+        "start_seconds": 36,
+        "end_minutes": 33,
+        "end_seconds": 29,
         "artist": "Pa's Lam System",
         "title": "HyperJuice - City Lights (feat. EVO+ & Jinmenusagi) (Pa's Lam System Remix)"
       }, {
-        "minutes": 33,
-        "seconds": 29,
+        "start_minutes": 33,
+        "start_seconds": 29,
+        "end_minutes": 35,
+        "end_seconds": 52,
         "artist": "Rustie",
         "title": "City Star VIP"
       }, {
-        "minutes": 35,
-        "seconds": 52,
+        "start_minutes": 35,
+        "start_seconds": 52,
+        "end_minutes": 39,
+        "end_seconds": 52,
         "artist": "Masayoshi Iimori",
         "title": "Mikeneko Homeless - そばが食べたい (Masayoshi Iimori Remix)"
       }, {
-        "minutes": 39,
-        "seconds": 52,
+        "start_minutes": 39,
+        "start_seconds": 52,
+        "end_minutes": 40,
+        "end_seconds": 14,
         "artist": "bo en",
         "title": "Yoitomodachi"
       }, {
-        "minutes": 40,
-        "seconds": 14,
+        "start_minutes": 40,
+        "start_seconds": 14,
+        "end_minutes": 43,
+        "end_seconds": 46,
         "artist": "KID FRESINO",
         "title": "Special Radio ft IO"
       }, {
-        "minutes": 43,
-        "seconds": 46,
+        "start_minutes": 43,
+        "start_seconds": 46,
+        "end_minutes": 46,
+        "end_seconds": 33,
         "artist": "MINO MINO",
         "title": "Migos - 1017 feat. Young Thug (MINO MINO FLIP)"
       }
@@ -919,53 +1199,73 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 23,
+        "start_minutes": 1,
+        "start_seconds": 23,
+        "end_minutes": 8,
+        "end_seconds": 35,
         "artist": "Gorillaz",
         "title": "Hong Kong"
       }, {
-        "minutes": 9,
-        "seconds": 3,
+        "start_minutes": 9,
+        "start_seconds": 3,
+        "end_minutes": 12,
+        "end_seconds": 42,
         "artist": "Omniboi",
         "title": "Cloudsurfing"
       }, {
-        "minutes": 13,
-        "seconds": 2,
+        "start_minutes": 13,
+        "start_seconds": 2,
+        "end_minutes": 15,
+        "end_seconds": 12,
         "artist": "Maxo",
         "title": "Not That Bad (feat. GFOTY)"
       }, {
-        "minutes": 16,
-        "seconds": 23,
+        "start_minutes": 16,
+        "start_seconds": 23,
+        "end_minutes": 20,
+        "end_seconds": 34,
         "artist": "Kane West",
         "title": "Recycle Bin"
       }, {
-        "minutes": 20,
-        "seconds": 41,
+        "start_minutes": 20,
+        "start_seconds": 41,
+        "end_minutes": 23,
+        "end_seconds": 34,
         "artist": "Iglooghost",
         "title": "Xiangjiao"
       }, {
-        "minutes": 23,
-        "seconds": 49,
+        "start_minutes": 23,
+        "start_seconds": 49,
+        "end_minutes": 27,
+        "end_seconds": 4,
         "artist": "Frank Zappa",
         "title": "G-Spot Tornado"
       }, {
-        "minutes": 27,
-        "seconds": 51,
+        "start_minutes": 27,
+        "start_seconds": 51,
+        "end_minutes": 33,
+        "end_seconds": 3,
         "artist": "Duke Ellington",
         "title": "Tourist Point of View"
       }, {
-        "minutes": 33,
-        "seconds": 22,
+        "start_minutes": 33,
+        "start_seconds": 22,
+        "end_minutes": 35,
+        "end_seconds": 52,
         "artist": "Tony Thai",
         "title": "Coast 4"
       }, {
-        "minutes": 36,
-        "seconds": 34,
+        "start_minutes": 36,
+        "start_seconds": 34,
+        "end_minutes": 42,
+        "end_seconds": 40,
         "artist": "Jacob Collier",
         "title": "Don't You Worry 'Bout a Thing"
       }, {
-        "minutes": 43,
-        "seconds": 48,
+        "start_minutes": 43,
+        "start_seconds": 48,
+        "end_minutes": 47,
+        "end_seconds": 54,
         "artist": "Disturbed",
         "title": "The Sound of Silence"
       }
@@ -988,43 +1288,59 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 16,
+        "start_minutes": 1,
+        "start_seconds": 16,
+        "end_minutes": 11,
+        "end_seconds": 19,
         "artist": "Various Artists",
         "title": "Tokyo Tribe Medley"
       }, {
-        "minutes": 11,
-        "seconds": 43,
+        "start_minutes": 11,
+        "start_seconds": 43,
+        "end_minutes": 16,
+        "end_seconds": 24,
         "artist": "Yura Yura Teikoku",
         "title": "Hollow Me"
       }, {
-        "minutes": 16,
-        "seconds": 50,
+        "start_minutes": 16,
+        "start_seconds": 50,
+        "end_minutes": 19,
+        "end_seconds": 44,
         "artist": "Grace",
         "title": "I'm Fine"
       }, {
-        "minutes": 20,
-        "seconds": 6,
+        "start_minutes": 20,
+        "start_seconds": 6,
+        "end_minutes": 23,
+        "end_seconds": 11,
         "artist": "LIZ",
         "title": "When I Rule the World"
       }, {
-        "minutes": 23,
-        "seconds": 35,
+        "start_minutes": 23,
+        "start_seconds": 35,
+        "end_minutes": 27,
+        "end_seconds": 14,
         "artist": "Pa's Lam System",
         "title": "tofubeats - CAND¥¥¥LAND (feat. LIZ) (Pa's Lam System Remix)"
       }, {
-        "minutes": 27,
-        "seconds": 57,
+        "start_minutes": 27,
+        "start_seconds": 57,
+        "end_minutes": 36,
+        "end_seconds": 3,
         "artist": "Davis Galvin",
         "title": "Tape Jam4"
       }, {
-        "minutes": 37,
-        "seconds": 44,
+        "start_minutes": 37,
+        "start_seconds": 44,
+        "end_minutes": 44,
+        "end_seconds": 25,
         "artist": "Jacob Collier",
         "title": "Hideaway"
       }, {
-        "minutes": 45,
-        "seconds": 19,
+        "start_minutes": 45,
+        "start_seconds": 19,
+        "end_minutes": 49,
+        "end_seconds": 26,
         "artist": "Makeunder",
         "title": "Great Headless Blank"
       }
@@ -1048,73 +1364,101 @@
       }
     ], "tracklist": [
       {
-        "minutes": 0,
-        "seconds": 55,
+        "start_minutes": 0,
+        "start_seconds": 55,
+        "end_minutes": 3,
+        "end_seconds": 36,
         "artist": "Calum Bowen",
         "title": "Lovely Mountains"
       }, {
-        "minutes": 4,
-        "seconds": 55,
+        "start_minutes": 4,
+        "start_seconds": 55,
+        "end_minutes": 5,
+        "end_seconds": 29,
         "artist": "bo en",
         "title": "intro"
       }, {
-        "minutes": 5,
-        "seconds": 29,
+        "start_minutes": 5,
+        "start_seconds": 29,
+        "end_minutes": 8,
+        "end_seconds": 52,
         "artist": "bo en",
         "title": "miss you"
       }, {
-        "minutes": 9,
-        "seconds": 46,
+        "start_minutes": 9,
+        "start_seconds": 46,
+        "end_minutes": 14,
+        "end_seconds": 38,
         "artist": "Nas",
         "title": "N.Y. State of Mind"
       }, {
-        "minutes": 14,
-        "seconds": 38,
+        "start_minutes": 14,
+        "start_seconds": 38,
+        "end_minutes": 19,
+        "end_seconds": 40,
         "artist": "Bill Evans Trio",
         "title": "Jade Visions (take 2)"
       }, {
-        "minutes": 19,
-        "seconds": 42,
+        "start_minutes": 19,
+        "start_seconds": 42,
+        "end_minutes": 22,
+        "end_seconds": 16,
         "artist": "ABSRDST",
         "title": "Lindsay Lowend - Gt40 (ABSRDST Remix)"
       }, {
-        "minutes": 24,
-        "seconds": 28,
+        "start_minutes": 24,
+        "start_seconds": 28,
+        "end_minutes": 27,
+        "end_seconds": 6,
         "artist": "Pa's Lam System x PARKGOLF",
         "title": "DOUGHNUT PLANET"
       }, {
-        "minutes": 27,
-        "seconds": 12,
+        "start_minutes": 27,
+        "start_seconds": 12,
+        "end_minutes": 31,
+        "end_seconds": 7,
         "artist": "Mikeneko Homeless",
         "title": "そばが食べたい Feat. 根本凪"
       }, {
-        "minutes": 31,
-        "seconds": 11,
+        "start_minutes": 31,
+        "start_seconds": 11,
+        "end_minutes": 33,
+        "end_seconds": 51,
         "artist": "Pa's Lam System",
         "title": "I'm Coming"
       }, {
-        "minutes": 34,
-        "seconds": 30,
+        "start_minutes": 34,
+        "start_seconds": 30,
+        "end_minutes": 36,
+        "end_seconds": 29,
         "artist": "Yaeji",
         "title": "New York '93"
       }, {
-        "minutes": 36,
-        "seconds": 34,
+        "start_minutes": 36,
+        "start_seconds": 34,
+        "end_minutes": 37,
+        "end_seconds": 2,
         "artist": "foisey.",
         "title": "temprture"
       }, {
-        "minutes": 37,
-        "seconds": 21,
+        "start_minutes": 37,
+        "start_seconds": 21,
+        "end_minutes": 38,
+        "end_seconds": 23,
         "artist": "DV-i",
         "title": "Optical Mode"
       }, {
-        "minutes": 38,
-        "seconds": 32,
+        "start_minutes": 38,
+        "start_seconds": 32,
+        "end_minutes": 40,
+        "end_seconds": 23,
         "artist": "Danny L Harle",
         "title": "18ECKING 8ALL"
       }, {
-        "minutes": 40,
-        "seconds": 54,
+        "start_minutes": 40,
+        "start_seconds": 54,
+        "end_minutes": 43,
+        "end_seconds": 59,
         "artist": "Maxo",
         "title": "Sunset BB (feat. meesh)"
       }
@@ -1191,43 +1535,59 @@
       }
     ], "tracklist": [
       {
-        "minutes": 2,
-        "seconds": 9,
+        "start_minutes": 2,
+        "start_seconds": 9,
+        "end_minutes": 4,
+        "end_seconds": 58,
         "artist": "Pa's Lam System",
         "title": "I'm Coming"
       }, {
-        "minutes": 6,
-        "seconds": 9,
+        "start_minutes": 6,
+        "start_seconds": 9,
+        "end_minutes": 9,
+        "end_seconds": 8,
         "artist": "Pa's Lam System",
         "title": "Bit by Bit"
       }, {
-        "minutes": 10,
-        "seconds": 9,
+        "start_minutes": 10,
+        "start_seconds": 9,
+        "end_minutes": 13,
+        "end_seconds": 13,
         "artist": "Wave Racer",
         "title": "Foster the People - Best Friends (Wave Racer Remix)"
       }, {
-        "minutes": 13,
-        "seconds": 51,
+        "start_minutes": 13,
+        "start_seconds": 51,
+        "end_minutes": 18,
+        "end_seconds": 19,
         "artist": "Rustie",
         "title": "Surph"
       }, {
-        "minutes": 18,
-        "seconds": 54,
+        "start_minutes": 18,
+        "start_seconds": 54,
+        "end_minutes": 22,
+        "end_seconds": 26,
         "artist": "banvox",
         "title": "Umbrella feat. 山邊未夢"
       }, {
-        "minutes": 22,
-        "seconds": 42,
+        "start_minutes": 22,
+        "start_seconds": 42,
+        "end_minutes": 27,
+        "end_seconds": 35,
         "artist": "Avec Avec",
         "title": "Day By Day feat. 中江友梨"
       }, {
-        "minutes": 28,
-        "seconds": 10,
+        "start_minutes": 28,
+        "start_seconds": 10,
+        "end_minutes": 32,
+        "end_seconds": 58,
         "artist": "Avec Avec",
         "title": "Pa's Lam System - I'm Coming (Avec Avec remix)"
       }, {
-        "minutes": 33,
-        "seconds": 29,
+        "start_minutes": 33,
+        "start_seconds": 29,
+        "end_minutes": 36,
+        "end_seconds": 55,
         "artist": "Sugar's Campaign",
         "title": "ネトカノ"
       }
@@ -1251,63 +1611,87 @@
       }
     ], "tracklist": [
       {
-        "minutes": 1,
-        "seconds": 56,
+        "start_minutes": 1,
+        "start_seconds": 56,
+        "end_minutes": 5,
+        "end_seconds": 45,
         "artist": "Mikeneko Homeless",
         "title": "そばが食べたい Feat. 根本凪"
       }, {
-        "minutes": 7,
-        "seconds": 32,
+        "start_minutes": 7,
+        "start_seconds": 32,
+        "end_minutes": 14,
+        "end_seconds": 10,
         "artist": "Charles Mingus",
         "title": "Duet Solo Dancers"
       }, {
-        "minutes": 15,
-        "seconds": 58,
+        "start_minutes": 15,
+        "start_seconds": 58,
+        "end_minutes": 18,
+        "end_seconds": 27,
         "artist": "Frank Zappa",
         "title": "Massaggio Galore"
       }, {
-        "minutes": 19,
-        "seconds": 13,
+        "start_minutes": 19,
+        "start_seconds": 13,
+        "end_minutes": 21,
+        "end_seconds": 55,
         "artist": "Maxo",
         "title": "I Did it All for the Cookie"
       }, {
-        "minutes": 22,
-        "seconds": 33,
+        "start_minutes": 22,
+        "start_seconds": 33,
+        "end_minutes": 26,
+        "end_seconds": 11,
         "artist": "Iglooghost",
         "title": "Mametchi / Usohachi (feat. Mr. Yote)"
       }, {
-        "minutes": 27,
-        "seconds": 14,
+        "start_minutes": 27,
+        "start_seconds": 14,
+        "end_minutes": 30,
+        "end_seconds": 7,
         "artist": "SOPHIE",
         "title": "HARD"
       }, {
-        "minutes": 30,
-        "seconds": 42,
+        "start_minutes": 30,
+        "start_seconds": 42,
+        "end_minutes": 33,
+        "end_seconds": 40,
         "artist": "Diveo",
         "title": "Fever Dreams (feat. Taylor Fernandez)"
       }, {
-        "minutes": 34,
-        "seconds": 59,
+        "start_minutes": 34,
+        "start_seconds": 59,
+        "end_minutes": 39,
+        "end_seconds": 27,
         "artist": "Jacob Collier",
         "title": "Fasinating Rhythm"
       }, {
-        "minutes": 40,
-        "seconds": 23,
+        "start_minutes": 40,
+        "start_seconds": 23,
+        "end_minutes": 42,
+        "end_seconds": 57,
         "artist": "Tony Thai",
         "title": "Cough Syrup Overdose"
       }, {
-        "minutes": 43,
-        "seconds": 9,
+        "start_minutes": 43,
+        "start_seconds": 9,
+        "end_minutes": 44,
+        "end_seconds": 29,
         "artist": "Soyo Oka",
         "title": "Mario Circuit"
       }, {
-        "minutes": 45,
-        "seconds": 5,
+        "start_minutes": 45,
+        "start_seconds": 5,
+        "end_minutes": 47,
+        "end_seconds": 44,
         "artist": "Calum Bowen",
         "title": "Lovely Mountains"
       }, {
-        "minutes": 48,
-        "seconds": 22,
+        "start_minutes": 48,
+        "start_seconds": 22,
+        "end_minutes": 52,
+        "end_seconds": 5,
         "artist": "bo en",
         "title": "be okay (with Avec Avec)"
       }
