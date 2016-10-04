@@ -25,6 +25,14 @@ a:hover {
   background-color: #ddd;
 }
 
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  background-color: #eee;
+}
+
 /* Navigation */
 #nav {
   float: left;
@@ -134,12 +142,4 @@ ol#tracklist {
   font-family: monospace;
   font-size: 7;
   text-align: right;
-}
-
-.timestamp-clickable {
-  cursor: pointer;
-}
-
-.timestamp-clickable:hover {
-  background-color: #eee;
 }

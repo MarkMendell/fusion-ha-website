@@ -5,13 +5,14 @@ function updatePlayingSong(audioPlayer, musicmode, starts, ends) {
     // The track at index i is currentply playing
     if ((time >= starts[i]) && (time <= ends[i])) {
       songPlaying = true;
-      document.querySelectorAll("#tracklist li .track").forEach(function(e, j) {
+      var tracks = document.querySelectorAll("#tracklist li .track");
+      for (var j=0; j<tracks.length; j++) {
         if (j == i) {
-          e.classList.add("selected");
+          tracks[j].classList.add("selected");
         } else {
-          e.classList.remove("selected");
+          tracks[j].classList.remove("selected");
         }
-      });
+      }
     // The stream is between tracks and the user has chosen to skip these parts
     } else if (musicmode.classList.contains("on") && (i<ends.length-1) &&
         (time > ends[i]) && (time < starts[i+1])) {
@@ -37,7 +38,7 @@ window.onload = function() {
   var timestamps = document.getElementsByClassName('timestamp');
   var audioPlayer = document.getElementsByTagName("audio")[0];
   for (var i=0; i<timestamps.length; i++) {
-    timestamps[i].classList.add("timestamp-clickable");
+    timestamps[i].classList.add("clickable");
     timestamps[i].addEventListener("click", function() {
       var minutes = parseInt(this.innerText.slice(0, 2));
       var seconds = parseInt(this.innerText.slice(-2));
@@ -49,6 +50,27 @@ window.onload = function() {
     musicmode.addEventListener("click", function() {
       this.classList.toggle("on");
     });
+  }
+  // Show audio-seeking warning for Firefox users
+  if (audioPlayer && (navigator.userAgent.toLowerCase().indexOf('firefox')>-1)){
+    var warning = document.createElement('div');
+    warning.id = "description";
+    warning.innerText = "Note: audio seeking times in Firefox aren't " +
+      "perfect; click this button to jump back 10 seconds: ";
+    var rewind = document.createElement('span');
+    rewind.classList.add("clickable");
+    rewind.innerText = "⟳";
+    rewind.addEventListener("click", function() {
+      audioPlayer.currentTime -= 10;
+      if (musicmode.classList.contains("on")) {
+        musicmode.classList.remove("on");
+        setTimeout(function() { musicmode.classList.add("on"); }, 20000);
+      }
+    });
+    warning.appendChild(rewind);
+    audioPlayer.parentNode.insertBefore(
+      warning, document.getElementById("tracklist")
+    );
   }
 
   // Read track timing info and start updating the current track / skipping
