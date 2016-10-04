@@ -2,7 +2,7 @@ function updatePlayingSong(audioPlayer, musicmode, starts, ends) {
   var time = audioPlayer.currentTime;
   var songPlaying = false;
   for (var i=0; i<ends.length; i++) {
-    // The track at index i is currentply playing
+    // The track at index i is currently playing
     if ((time >= starts[i]) && (time <= ends[i])) {
       songPlaying = true;
       var tracks = document.querySelectorAll("#tracklist li .track");
