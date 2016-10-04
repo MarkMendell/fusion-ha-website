@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <title>Fusion HA</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head>
+  <body>
+    <ol id="nav">
+      {{range .Shows}}
+      <li>
+        <a href="{{.Number}}/">
+          <span class="date">{{.Date}}</span> {{.Title}}
+        </a>
+      </li>
+      {{end}}
+      <li class="nonshow-nav"><a href="https://soundcloud.com/enebo-1/following">More artists</a></li>
+      <br>
+      <li class="nonshow-nav selected"><a href="./">Home</a></li>
+    </ol>
+    <div id="content">
+      <div id="description">
+        Loosen up with DJ Dulcolax during Fusion HA! Fusion HA showcases hectic, dense, fun music inspired by jazz, j-pop, experimental electronic, trap, breakbeat, video-game soundtracks, art pop, and more. <a href="http://www.wrct.org/show/774/">Fusion HA aired Fridays at 8pm on WRCT</a>.
+        <br>
+        <br>
+        The source code for this website can be found <a href="https://github.com/MarkMendell/fusion-ha-website">here</a>.
+      </div>
+      <h2>Top Artists</h2>
+      <ol id="top-artists">
+        {{range .TopArtists}}
+        <li>
+          <a href="{{(index $.Urls .Artist).Url}}">{{.Artist}}</a>: {{.Plays}}
+        </li>
+        {{end}}
+      </ol>
+    </div>
+  </body>
+</html>

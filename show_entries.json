@@ -2,17 +2,10 @@
   {
     "number": 18,
     "title": "Catching Up & New Artists",
-    "date": "9/2/2016",
+    "date": "9/2/16",
     "stream": "https://cmu.box.com/shared/static/hnbufrsf80jnky9cctk066ey93fslmz1.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25234/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/hnbufrsf80jnky9cctk066ey93fslmz1.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 29,
@@ -109,17 +102,10 @@
   }, {
     "number": 17,
     "title": "PC Music w/ Steve (part 2)",
-    "date": "8/12/2016",
+    "date": "8/12/16",
     "stream": "https://cmu.box.com/shared/static/axyxxfskxuhc74mr6a9u45pdjcrk7k49.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25178/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/axyxxfskxuhc74mr6a9u45pdjcrk7k49.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": false,
+    "tracklist": [
       {
         "start_minutes": 5,
         "start_seconds": 49,
@@ -202,17 +188,10 @@
   }, {
     "number": 16,
     "title": "Secret Songs",
-    "date": "7/15/2016",
+    "date": "7/15/16",
     "stream": "https://cmu.box.com/shared/static/ahrhaeitzooisxplnpikqswxxnese3zq.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25097/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/ahrhaeitzooisxplnpikqswxxnese3zq.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 10,
@@ -295,17 +274,10 @@
   }, {
     "number": 15,
     "title": "PC Music w/ Steve (part 1)",
-    "date": "7/8/2016",
+    "date": "7/8/16",
     "stream": "https://cmu.box.com/shared/static/b8tjju83vw13izenvyigvvfz9e0eggnp.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25074/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/b8tjju83vw13izenvyigvvfz9e0eggnp.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": false,
+    "tracklist": [
       {
         "start_minutes": 5,
         "start_seconds": 2,
@@ -367,17 +339,10 @@
   }, {
     "number": 14,
     "title": "Activia Benz (Releases)",
-    "date": "7/1/2016",
+    "date": "7/1/16",
     "stream": "https://cmu.box.com/shared/static/o5y21yqxmz0ouztr7nl5hdzjlqepg7q9.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25055/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/o5y21yqxmz0ouztr7nl5hdzjlqepg7q9.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 23,
@@ -481,17 +446,10 @@
   }, {
     "number": 13,
     "title": "Activia Benz (Singles Club)",
-    "date": "6/24/2016",
+    "date": "6/24/16",
     "stream": "https://cmu.box.com/shared/static/wu2808hpsr4lbsd7i1pmve3ycjpza8fg.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/25030/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/wu2808hpsr4lbsd7i1pmve3ycjpza8fg.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 28,
@@ -602,17 +560,10 @@
   }, {
     "number": 12,
     "title": "Orange Milk and New Releases",
-    "date": "6/10/2016",
+    "date": "6/10/16",
     "stream": "https://cmu.box.com/shared/static/erc1ym3uajy5xqi7okon0ttsah2jhr43.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24987/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/erc1ym3uajy5xqi7okon0ttsah2jhr43.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 41,
@@ -688,17 +639,10 @@
   }, {
     "number": 11,
     "title": "Futurebeats vs Jazz Fusion",
-    "date": "6/3/2016",
+    "date": "6/3/16",
     "stream": "https://cmu.box.com/shared/static/j05fl12qkj8omasyd93hab4sf8gft0b2.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24967/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/j05fl12qkj8omasyd93hab4sf8gft0b2.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 44,
@@ -804,15 +748,8 @@
     "title": "Sound Design",
     "date": "5/27/16",
     "stream": "https://cmu.box.com/shared/static/qvfg9ee40a0wico5fwa6lysc1dk8jt63.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24946/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/qvfg9ee40a0wico5fwa6lysc1dk8jt63.mp3"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 0,
@@ -855,18 +792,8 @@
     "title": "Scratching the Fusion HA Itch",
     "date": "5/20/16",
     "stream": "https://cmu.box.com/shared/static/wn6o7ma7cmgx0gi862bzcvdj2xibo5b9.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24930/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/wn6o7ma7cmgx0gi862bzcvdj2xibo5b9.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/scratching-the-fusion-ha-itch-fusion-ha-9/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 27,
@@ -951,18 +878,8 @@
     "title": "End of Semester",
     "date": "4/29/16",
     "stream": "https://cmu.box.com/shared/static/7f6i60d0blpqihr5ieutg2aq0o2051pw.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24880/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/7f6i60d0blpqihr5ieutg2aq0o2051pw.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/end-of-semester-fusion-ha-8/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 28,
@@ -1045,21 +962,10 @@
   }, {
     "number": 7,
     "title": "Carnival Bangers",
-    "favorite": true,
     "date": "4/15/16",
     "stream": "https://cmu.box.com/shared/static/dwm3tyym3ycb0iir8o60jiaamay6dwc8.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24831"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/dwm3tyym3ycb0iir8o60jiaamay6dwc8.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/carnival-bangers-fusion-ha-7/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 25,
@@ -1186,18 +1092,8 @@
     "title": "VGM Inspo",
     "date": "4/8/16",
     "stream": "https://cmu.box.com/shared/static/cs9nu7dikpszlkdcr39osn42ooado510.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24804"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/cs9nu7dikpszlkdcr39osn42ooado510.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/vgm-inspo-fusion-ha-6/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 23,
@@ -1275,18 +1171,8 @@
     "title": "Tokyo Tribe + New Releases",
     "date": "4/1/16",
     "stream": "https://cmu.box.com/shared/static/zulfkzvw0fzmi94f873omnmky0sbwbpl.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24770"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/zulfkzvw0fzmi94f873omnmky0sbwbpl.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/tokyo-tribe-new-releases-fusion-ha-5/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 16,
@@ -1348,21 +1234,10 @@
   }, {
     "number": 4,
     "title": "Maltine NY Noir",
-    "favorite": true,
     "date": "3/25/16",
     "stream": "https://cmu.box.com/shared/static/3oxks8kj31i8qnkl6vrqdo1idzvn32zx.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24729/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/3oxks8kj31i8qnkl6vrqdo1idzvn32zx.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/maltine-ny-noir-fusion-ha-4/"
-      }
-    ], "tracklist": [
+    "skip_talking": false,
+    "tracklist": [
       {
         "start_minutes": 0,
         "start_seconds": 55,
@@ -1467,12 +1342,7 @@
     "number": 3,
     "title": "Maltine NY Warmup (pt. 2)",
     "date": "3/4/16",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24648/"
-      }
-    ], "tracklist": [
+    "tracklist": [
       {
         "artist": "DJ Tomad",
         "title": "Boyz Jump Up"
@@ -1522,18 +1392,8 @@
     "title": "Maltine NY Warmup (pt. 1)",
     "date": "2/26/16",
     "stream": "https://cmu.box.com/shared/static/90qfe4htx3pxifglj0dbzpdn9yyhcr2q.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24622/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/90qfe4htx3pxifglj0dbzpdn9yyhcr2q.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/maltine-ny-warmup-pt-1-fusion-ha-2/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 2,
         "start_seconds": 9,
@@ -1595,21 +1455,10 @@
   }, {
     "number": 1,
     "title": "Intro",
-    "favorite": true,
     "date": "1/22/16",
     "stream": "https://cmu.box.com/shared/static/12g7qtihoe5q61euqnmlw5f0g6xwt29u.mp3",
-    "links": [
-      {
-        "text": "WRCT",
-        "url": "http://www.wrct.org/playlist/24490/"
-      }, {
-        "text": "MP3",
-        "url": "https://cmu.box.com/shared/static/12g7qtihoe5q61euqnmlw5f0g6xwt29u.mp3"
-      }, {
-        "text": "Mixcloud",
-        "url": "https://www.mixcloud.com/DJDulcolax/intro-fusion-ha-1/"
-      }
-    ], "tracklist": [
+    "skip_talking": true,
+    "tracklist": [
       {
         "start_minutes": 1,
         "start_seconds": 56,
@@ -1689,7 +1538,7 @@
         "title": "Lovely Mountains"
       }, {
         "start_minutes": 48,
-        "start_seconds": 22,
+        "start_seconds": 26,
         "end_minutes": 52,
         "end_seconds": 5,
         "artist": "bo en",

@@ -1,25 +1,145 @@
-.grouping-heading, .entry-heading, .timestamp {
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.hidden {
+/* Universal */
+yesscript {  /* gets displayed by javascript */
   display: none;
 }
 
-.entries, .entry-content {
-  margin-left: 10px;
+body {
+  font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+  font-size: 15;
 }
 
-.clickable-region {
-  opacity: 0.0;
+a {
+  text-decoration: none;
 }
 
-.entry-content audio {
-  width: 100%;
-  max-width: 500px;
+a:visited, a:link {
+  color: black;
 }
 
-li {
+a:hover {
+  background-color: #eee;
+}
+
+.selected {
+  font-weight: bold;
+  background-color: #ddd;
+}
+
+/* Navigation */
+#nav {
+  float: left;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 20;
+}
+
+#nav a {
+  display: block;
+}
+
+#nav li {
   list-style-type: none;
+}
+
+#nav li:hover {
+  background-color: #eee;
+}
+
+#nav .date {
+  display: inline-block;
+  width: 60;
+  font-style: italic;
+}
+
+#nav .nonshow-nav, #nav .nonshow-nav a {
+  display: inline;  /* Don't fill the whole section for non-show links */
+}
+
+/* Universal non-nav content */
+#content {
+  overflow: hidden;
+  min-width: 350px;
+}
+
+/* Home page */
+#description {
+  font-size: small;
+  font-style: italic;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+ol#top-artists {
+  display: inline;
+  padding: 0;
+  list-style-position: inside;
+}
+
+/* Streaming buttons */
+audio {
+  width: calc(100% - 230px);
+  min-width: 286px;
+}
+
+#buttons {
+  position: relative;
+  top: -9;
+  left: 10;
+  font-size: large;
+}
+
+#musicmode {
+  position: relative;
+  top: -1;
+  margin-left: 8;
+  color: #bbb;
+  cursor: pointer;
+}
+
+#musicmode:hover {
+  background-color: #ddd;
+}
+
+#musicmode.on {
+  color: #000;
+}
+
+#musicmode-description {
+  visibility: hidden;
+  position: relative;
+  top: -3;
+  font-size: 12;
+}
+
+#musicmode:hover + #musicmode-description {
+  visibility: visible;
+}
+
+/* Tracklist */
+ol#tracklist {
+  display: inline;
+  min-width: 300px;
+  padding: 0;
+}
+
+#tracklist li {
+  margin-bottom: 2;
+  list-style-type: none;
+}
+
+.timestamp {
+  display: inline-block;
+  font-family: monospace;
+  font-size: 7;
+  text-align: right;
+}
+
+.timestamp-clickable {
+  cursor: pointer;
+}
+
+.timestamp-clickable:hover {
+  background-color: #eee;
 }

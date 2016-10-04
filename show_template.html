@@ -1,0 +1,55 @@
+{{ $show := index .Shows .I }}
+<html>
+  <head>
+    <title>Fusion HA #{{$show.Number}} - {{$show.Title}}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../index.css">
+    <script src="../index.js"></script>
+  </head>
+  <body>
+    <ol id="nav">
+      {{range .Shows}}
+      <li{{if eq .Number $show.Number}} class="selected"{{end}}>
+        <a href="../{{.Number}}/">
+          <span class="date">{{.Date}}</span> {{.Title}}
+        </a>
+      </li>
+      {{end}}
+      <li class="nonshow-nav"><a href="https://soundcloud.com/enebo-1/following">More artists</a></li>
+      <br>
+      <li class="nonshow-nav"><a href="../">Home</a></li>
+    </ol>
+    <div id="content">
+      {{if $show.Stream}}
+      <audio controls>
+        <source src="{{$show.Stream}}">
+      </audio>
+      <span id="buttons">
+        <a id="download" href="{{$show.Stream}}" download>⬇</a>
+        <yesscript>
+          <span id="musicmode"{{if $show.Skip_talking}} class="on"{{end}}>♫</span>
+          <span id="musicmode-description">
+             ■ = skip talking between songs
+          </span>
+        </yesscript>
+      </span>
+      {{end}}
+      <ol id="tracklist">
+        {{range $show.Tracklist}}
+        <li>
+          <span class="track">
+            {{if $show.Stream}}
+            <div class="timestamp">
+              {{printf "%02d" .Start_minutes}}
+              <br>{{printf "%02d" .Start_seconds}}
+            </div>
+            {{end}}
+            {{$artistUrls := index $.Urls .Artist}}
+            <a href="{{$artistUrls.Url}}">{{.Artist}}</a> - <a href="{{index $artistUrls.Tracks .Title}}">{{.Title}}</a>
+          </span>
+        </li>
+        {{end}}
+      </ol>
+    </div>
+  </body>
+</html>
