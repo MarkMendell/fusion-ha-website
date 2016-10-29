@@ -1,28 +1,16 @@
 function updatePlayingSong(audioPlayer, musicmode, starts, ends) {
   var time = audioPlayer.currentTime;
-  var songPlaying = false;
-  for (var i=0; i<ends.length; i++) {
-    // The track at index i is currently playing
+  var tracks = document.querySelectorAll("#tracklist li .track");
+  for (var i=0; i<tracks.length; i++) {
     if ((time >= starts[i]) && (time <= ends[i])) {
-      songPlaying = true;
-      var tracks = document.querySelectorAll("#tracklist li .track");
-      for (var j=0; j<tracks.length; j++) {
-        if (j == i) {
-          tracks[j].classList.add("selected");
-        } else {
-          tracks[j].classList.remove("selected");
-        }
-      }
+      tracks[i].classList.add("selected");
+    } else {
+      tracks[i].classList.remove("selected");
+    }
     // The stream is between tracks and the user has chosen to skip these parts
-    } else if (musicmode.classList.contains("on") && (i<ends.length-1) &&
+    if (musicmode.classList.contains("on") && (i<ends.length-1) &&
         (time > ends[i]) && (time < starts[i+1])) {
       audioPlayer.currentTime = starts[i+1];
-    }
-  }
-  if (!songPlaying) {
-    var selected = document.querySelector("#tracklist li .selected");
-    if (selected) {
-      selected.classList.remove("selected");
     }
   }
   setTimeout(updatePlayingSong, 1000, audioPlayer, musicmode, starts, ends);
